@@ -8,5 +8,15 @@
       "Bit Manipulation",
       "Math"
     ]
+  },
+  {
+    "id": 1672,
+    "title": "Richest Customer Wealth",
+    "title_slug": "richest-customer-wealth",
+    "difficulty": "Easy",
+    "skills": [
+      "Array",
+      "Matrix"
+    ]
   }
 ]

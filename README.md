@@ -7,3 +7,4 @@
 | # | Title | Difficulty | Skills |
 |---| ----- | ---------- | ------ |
 | 1342 | [Number of Steps to Reduce a Number to Zero](https://leetcode.com/problems/number-of-steps-to-reduce-a-number-to-zero) | Easy | `Bit Manipulation` `Math` |
+| 1672 | [Richest Customer Wealth](https://leetcode.com/problems/richest-customer-wealth) | Easy | `Array` `Matrix` |
