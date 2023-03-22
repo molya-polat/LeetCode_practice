@@ -1,5 +1,16 @@
 [
   {
+    "id": 412,
+    "title": "Fizz Buzz",
+    "title_slug": "fizz-buzz",
+    "difficulty": "Easy",
+    "skills": [
+      "Math",
+      "Simulation",
+      "String"
+    ]
+  },
+  {
     "id": 876,
     "title": "Middle of the Linked List",
     "title_slug": "middle-of-the-linked-list",
