@@ -1,5 +1,14 @@
 [
   {
+    "id": 9,
+    "title": "Palindrome Number",
+    "title_slug": "palindrome-number",
+    "difficulty": "Easy",
+    "skills": [
+      "Math"
+    ]
+  },
+  {
     "id": 136,
     "title": "Single Number",
     "title_slug": "single-number",
