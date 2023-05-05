@@ -142,6 +142,16 @@
     ]
   },
   {
+    "id": 1491,
+    "title": "Average Salary Excluding the Minimum and Maximum Salary",
+    "title_slug": "average-salary-excluding-the-minimum-and-maximum-salary",
+    "difficulty": "Easy",
+    "skills": [
+      "Array",
+      "Sorting"
+    ]
+  },
+  {
     "id": 1672,
     "title": "Richest Customer Wealth",
     "title_slug": "richest-customer-wealth",
