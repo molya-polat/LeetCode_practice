@@ -30,6 +30,16 @@
     ]
   },
   {
+    "id": 69,
+    "title": "Sqrt(x)",
+    "title_slug": "sqrtx",
+    "difficulty": "Easy",
+    "skills": [
+      "Binary Search",
+      "Math"
+    ]
+  },
+  {
     "id": 136,
     "title": "Single Number",
     "title_slug": "single-number",
