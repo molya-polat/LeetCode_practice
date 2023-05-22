@@ -9,6 +9,17 @@
     ]
   },
   {
+    "id": 22,
+    "title": "Generate Parentheses",
+    "title_slug": "generate-parentheses",
+    "difficulty": "Medium",
+    "skills": [
+      "Backtracking",
+      "Dynamic Programming",
+      "String"
+    ]
+  },
+  {
     "id": 28,
     "title": "Find the Index of the First Occurrence in a String",
     "title_slug": "find-the-index-of-the-first-occurrence-in-a-string",
