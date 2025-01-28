@@ -202,5 +202,15 @@
       "Array",
       "Matrix"
     ]
+  },
+  {
+    "id": 3427,
+    "title": "Sum of Variable Length Subarrays",
+    "title_slug": "sum-of-variable-length-subarrays",
+    "difficulty": "Easy",
+    "skills": [
+      "Array",
+      "Prefix Sum"
+    ]
   }
 ]
