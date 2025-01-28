@@ -26,3 +26,4 @@
 | 1491 | [Average Salary Excluding the Minimum and Maximum Salary](https://leetcode.com/problems/average-salary-excluding-the-minimum-and-maximum-salary) | Easy | `Array` `Sorting` |
 | 1672 | [Richest Customer Wealth](https://leetcode.com/problems/richest-customer-wealth) | Easy | `Array` `Matrix` |
 | 3427 | [Sum of Variable Length Subarrays](https://leetcode.com/problems/sum-of-variable-length-subarrays) | Easy | `Array` `Prefix Sum` |
+| 3432 | [Count Partitions with Even Sum Difference](https://leetcode.com/problems/count-partitions-with-even-sum-difference) | Easy | `Array` `Math` `Prefix Sum` |
