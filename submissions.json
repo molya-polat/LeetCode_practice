@@ -204,6 +204,15 @@
     ]
   },
   {
+    "id": 3423,
+    "title": "Maximum Difference Between Adjacent Elements in a Circular Array",
+    "title_slug": "maximum-difference-between-adjacent-elements-in-a-circular-array",
+    "difficulty": "Easy",
+    "skills": [
+      "Array"
+    ]
+  },
+  {
     "id": 3427,
     "title": "Sum of Variable Length Subarrays",
     "title_slug": "sum-of-variable-length-subarrays",
