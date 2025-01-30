@@ -204,6 +204,17 @@
     ]
   },
   {
+    "id": 3402,
+    "title": "Minimum Operations to Make Columns Strictly Increasing",
+    "title_slug": "minimum-operations-to-make-columns-strictly-increasing",
+    "difficulty": "Easy",
+    "skills": [
+      "Array",
+      "Greedy",
+      "Matrix"
+    ]
+  },
+  {
     "id": 3423,
     "title": "Maximum Difference Between Adjacent Elements in a Circular Array",
     "title_slug": "maximum-difference-between-adjacent-elements-in-a-circular-array",
