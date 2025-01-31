@@ -204,6 +204,16 @@
     ]
   },
   {
+    "id": 3370,
+    "title": "Smallest Number With All Set Bits",
+    "title_slug": "smallest-number-with-all-set-bits",
+    "difficulty": "Easy",
+    "skills": [
+      "Bit Manipulation",
+      "Math"
+    ]
+  },
+  {
     "id": 3402,
     "title": "Minimum Operations to Make Columns Strictly Increasing",
     "title_slug": "minimum-operations-to-make-columns-strictly-increasing",
