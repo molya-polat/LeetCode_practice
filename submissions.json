@@ -204,6 +204,17 @@
     ]
   },
   {
+    "id": 3364,
+    "title": "Minimum Positive Sum Subarray ",
+    "title_slug": "minimum-positive-sum-subarray",
+    "difficulty": "Easy",
+    "skills": [
+      "Array",
+      "Prefix Sum",
+      "Sliding Window"
+    ]
+  },
+  {
     "id": 3370,
     "title": "Smallest Number With All Set Bits",
     "title_slug": "smallest-number-with-all-set-bits",
