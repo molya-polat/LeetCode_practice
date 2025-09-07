@@ -275,6 +275,18 @@
     ]
   },
   {
+    "id": 3663,
+    "title": "Find The Least Frequent Digit",
+    "title_slug": "find-the-least-frequent-digit",
+    "difficulty": "Easy",
+    "skills": [
+      "Array",
+      "Counting",
+      "Hash Table",
+      "Math"
+    ]
+  },
+  {
     "id": 3668,
     "title": "Restore Finishing Order",
     "title_slug": "restore-finishing-order",
