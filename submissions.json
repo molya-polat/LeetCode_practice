@@ -286,6 +286,16 @@
     ]
   },
   {
+    "id": 3658,
+    "title": "GCD of Odd and Even Sums",
+    "title_slug": "gcd-of-odd-and-even-sums",
+    "difficulty": "Easy",
+    "skills": [
+      "Math",
+      "Number Theory"
+    ]
+  },
+  {
     "id": 3663,
     "title": "Find The Least Frequent Digit",
     "title_slug": "find-the-least-frequent-digit",
