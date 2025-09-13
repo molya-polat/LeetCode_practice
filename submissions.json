@@ -275,6 +275,15 @@
     ]
   },
   {
+    "id": 3622,
+    "title": "Check Divisibility by Digit Sum and Product",
+    "title_slug": "check-divisibility-by-digit-sum-and-product",
+    "difficulty": "Easy",
+    "skills": [
+      "Math"
+    ]
+  },
+  {
     "id": 3633,
     "title": "Earliest Finish Time for Land and Water Rides I",
     "title_slug": "earliest-finish-time-for-land-and-water-rides-i",
