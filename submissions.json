@@ -275,6 +275,18 @@
     ]
   },
   {
+    "id": 3606,
+    "title": "Coupon Code Validator",
+    "title_slug": "coupon-code-validator",
+    "difficulty": "Easy",
+    "skills": [
+      "Array",
+      "Hash Table",
+      "Sorting",
+      "String"
+    ]
+  },
+  {
     "id": 3622,
     "title": "Check Divisibility by Digit Sum and Product",
     "title_slug": "check-divisibility-by-digit-sum-and-product",
