@@ -369,5 +369,17 @@
       "Array",
       "Hash Table"
     ]
+  },
+  {
+    "id": 3684,
+    "title": "Maximize Sum of At Most K Distinct Elements",
+    "title_slug": "maximize-sum-of-at-most-k-distinct-elements",
+    "difficulty": "Easy",
+    "skills": [
+      "Array",
+      "Greedy",
+      "Hash Table",
+      "Sorting"
+    ]
   }
 ]
