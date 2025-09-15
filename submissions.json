@@ -359,5 +359,15 @@
       "Array",
       "Hash Table"
     ]
+  },
+  {
+    "id": 3678,
+    "title": "Smallest Absent Positive Greater Than Average",
+    "title_slug": "smallest-absent-positive-greater-than-average",
+    "difficulty": "Easy",
+    "skills": [
+      "Array",
+      "Hash Table"
+    ]
   }
 ]

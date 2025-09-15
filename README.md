@@ -40,3 +40,4 @@
 | 3658 | [GCD of Odd and Even Sums](https://leetcode.com/problems/gcd-of-odd-and-even-sums) | Easy | `Math` `Number Theory` |
 | 3663 | [Find The Least Frequent Digit](https://leetcode.com/problems/find-the-least-frequent-digit) | Easy | `Array` `Counting` `Hash Table` `Math` |
 | 3668 | [Restore Finishing Order](https://leetcode.com/problems/restore-finishing-order) | Easy | `Array` `Hash Table` |
+| 3678 | [Smallest Absent Positive Greater Than Average](https://leetcode.com/problems/smallest-absent-positive-greater-than-average) | Easy | `Array` `Hash Table` |
