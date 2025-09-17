@@ -1,0 +1,1 @@
+class Solution: checkPrimeFrequency = lambda self, nums: any((lambda x: (x > 1) and all(x % i != 0 for i in range(2, floor(x ** 0.5) + 1)))(freq) for freq in Counter(nums).values())
