@@ -275,6 +275,16 @@
     ]
   },
   {
+    "id": 3602,
+    "title": "Hexadecimal and Hexatrigesimal Conversion",
+    "title_slug": "hexadecimal-and-hexatrigesimal-conversion",
+    "difficulty": "Easy",
+    "skills": [
+      "Math",
+      "String"
+    ]
+  },
+  {
     "id": 3606,
     "title": "Coupon Code Validator",
     "title_slug": "coupon-code-validator",

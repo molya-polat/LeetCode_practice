@@ -32,6 +32,7 @@
 | 3423 | [Maximum Difference Between Adjacent Elements in a Circular Array](https://leetcode.com/problems/maximum-difference-between-adjacent-elements-in-a-circular-array) | Easy | `Array` |
 | 3427 | [Sum of Variable Length Subarrays](https://leetcode.com/problems/sum-of-variable-length-subarrays) | Easy | `Array` `Prefix Sum` |
 | 3432 | [Count Partitions with Even Sum Difference](https://leetcode.com/problems/count-partitions-with-even-sum-difference) | Easy | `Array` `Math` `Prefix Sum` |
+| 3602 | [Hexadecimal and Hexatrigesimal Conversion](https://leetcode.com/problems/hexadecimal-and-hexatrigesimal-conversion) | Easy | `Math` `String` |
 | 3606 | [Coupon Code Validator](https://leetcode.com/problems/coupon-code-validator) | Easy | `Array` `Hash Table` `Sorting` `String` |
 | 3622 | [Check Divisibility by Digit Sum and Product](https://leetcode.com/problems/check-divisibility-by-digit-sum-and-product) | Easy | `Math` |
 | 3633 | [Earliest Finish Time for Land and Water Rides I](https://leetcode.com/problems/earliest-finish-time-for-land-and-water-rides-i) | Easy | `Array` `Binary Search` `Greedy` `Sorting` `Two Pointers` |
