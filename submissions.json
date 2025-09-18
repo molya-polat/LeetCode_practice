@@ -284,6 +284,16 @@
     ]
   },
   {
+    "id": 3582,
+    "title": "Generate Tag for Video Caption",
+    "title_slug": "generate-tag-for-video-caption",
+    "difficulty": "Easy",
+    "skills": [
+      "Simulation",
+      "String"
+    ]
+  },
+  {
     "id": 3591,
     "title": "Check if Any Element Has Prime Frequency",
     "title_slug": "check-if-any-element-has-prime-frequency",
