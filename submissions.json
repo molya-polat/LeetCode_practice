@@ -275,6 +275,16 @@
     ]
   },
   {
+    "id": 3550,
+    "title": "Smallest Index With Digit Sum Equal to Index",
+    "title_slug": "smallest-index-with-digit-sum-equal-to-index",
+    "difficulty": "Easy",
+    "skills": [
+      "Array",
+      "Math"
+    ]
+  },
+  {
     "id": 3560,
     "title": "Find Minimum Log Transportation Cost",
     "title_slug": "find-minimum-log-transportation-cost",
