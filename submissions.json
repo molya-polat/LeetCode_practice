@@ -275,6 +275,17 @@
     ]
   },
   {
+    "id": 3541,
+    "title": "Find Most Frequent Vowel and Consonant",
+    "title_slug": "find-most-frequent-vowel-and-consonant",
+    "difficulty": "Easy",
+    "skills": [
+      "Counting",
+      "Hash Table",
+      "String"
+    ]
+  },
+  {
     "id": 3545,
     "title": "Minimum Deletions for At Most K Distinct Characters",
     "title_slug": "minimum-deletions-for-at-most-k-distinct-characters",
