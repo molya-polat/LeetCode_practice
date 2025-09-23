@@ -275,6 +275,19 @@
     ]
   },
   {
+    "id": 3545,
+    "title": "Minimum Deletions for At Most K Distinct Characters",
+    "title_slug": "minimum-deletions-for-at-most-k-distinct-characters",
+    "difficulty": "Easy",
+    "skills": [
+      "Counting",
+      "Greedy",
+      "Hash Table",
+      "Sorting",
+      "String"
+    ]
+  },
+  {
     "id": 3550,
     "title": "Smallest Index With Digit Sum Equal to Index",
     "title_slug": "smallest-index-with-digit-sum-equal-to-index",
