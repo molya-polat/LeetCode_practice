@@ -51,3 +51,4 @@
 | 3678 | [Smallest Absent Positive Greater Than Average](https://leetcode.com/problems/smallest-absent-positive-greater-than-average) | Easy | `Array` `Hash Table` |
 | 3683 | [Earliest Time to Finish One Task](https://leetcode.com/problems/earliest-time-to-finish-one-task) | Easy | `Array` |
 | 3684 | [Maximize Sum of At Most K Distinct Elements](https://leetcode.com/problems/maximize-sum-of-at-most-k-distinct-elements) | Easy | `Array` `Greedy` `Hash Table` `Sorting` |
+| 3689 | [Maximum Total Subarray Value I](https://leetcode.com/problems/maximum-total-subarray-value-i) | Medium | `Array` `Greedy` |

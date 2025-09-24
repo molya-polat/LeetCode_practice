@@ -476,5 +476,15 @@
       "Hash Table",
       "Sorting"
     ]
+  },
+  {
+    "id": 3689,
+    "title": "Maximum Total Subarray Value I",
+    "title_slug": "maximum-total-subarray-value-i",
+    "difficulty": "Medium",
+    "skills": [
+      "Array",
+      "Greedy"
+    ]
   }
 ]
