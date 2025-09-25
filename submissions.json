@@ -275,6 +275,15 @@
     ]
   },
   {
+    "id": 3516,
+    "title": "Find Closest Person",
+    "title_slug": "find-closest-person",
+    "difficulty": "Easy",
+    "skills": [
+      "Math"
+    ]
+  },
+  {
     "id": 3536,
     "title": "Maximum Product of Two Digits",
     "title_slug": "maximum-product-of-two-digits",
