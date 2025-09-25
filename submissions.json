@@ -478,6 +478,17 @@
     ]
   },
   {
+    "id": 3688,
+    "title": "Bitwise OR of Even Numbers in an Array",
+    "title_slug": "bitwise-or-of-even-numbers-in-an-array",
+    "difficulty": "Easy",
+    "skills": [
+      "Array",
+      "Bit Manipulation",
+      "Simulation"
+    ]
+  },
+  {
     "id": 3689,
     "title": "Maximum Total Subarray Value I",
     "title_slug": "maximum-total-subarray-value-i",
