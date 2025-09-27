@@ -35,6 +35,7 @@
 | 3483 | [Unique 3-Digit Even Numbers](https://leetcode.com/problems/unique-3-digit-even-numbers) | Easy | `Array` `Enumeration` `Hash Table` `Recursion` |
 | 3487 | [Maximum Unique Subarray Sum After Deletion](https://leetcode.com/problems/maximum-unique-subarray-sum-after-deletion) | Easy | `Array` `Greedy` `Hash Table` |
 | 3492 | [Maximum Containers on a Ship](https://leetcode.com/problems/maximum-containers-on-a-ship) | Easy | `Math` |
+| 3498 | [Reverse Degree of a String](https://leetcode.com/problems/reverse-degree-of-a-string) | Easy | `Simulation` `String` |
 | 3507 | [Minimum Pair Removal to Sort Array I](https://leetcode.com/problems/minimum-pair-removal-to-sort-array-i) | Easy | `Array` `Doubly-Linked List` `Hash Table` `Heap (Priority Queue)` `Linked List` `Ordered Set` `Simulation` |
 | 3512 | [Minimum Operations to Make Array Sum Divisible by K](https://leetcode.com/problems/minimum-operations-to-make-array-sum-divisible-by-k) | Easy | `Array` `Math` |
 | 3516 | [Find Closest Person](https://leetcode.com/problems/find-closest-person) | Easy | `Math` |

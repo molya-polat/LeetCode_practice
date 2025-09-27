@@ -307,6 +307,16 @@
     ]
   },
   {
+    "id": 3498,
+    "title": "Reverse Degree of a String",
+    "title_slug": "reverse-degree-of-a-string",
+    "difficulty": "Easy",
+    "skills": [
+      "Simulation",
+      "String"
+    ]
+  },
+  {
     "id": 3507,
     "title": "Minimum Pair Removal to Sort Array I",
     "title_slug": "minimum-pair-removal-to-sort-array-i",
