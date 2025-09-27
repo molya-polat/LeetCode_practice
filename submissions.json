@@ -275,6 +275,18 @@
     ]
   },
   {
+    "id": 3483,
+    "title": "Unique 3-Digit Even Numbers",
+    "title_slug": "unique-3-digit-even-numbers",
+    "difficulty": "Easy",
+    "skills": [
+      "Array",
+      "Enumeration",
+      "Hash Table",
+      "Recursion"
+    ]
+  },
+  {
     "id": 3487,
     "title": "Maximum Unique Subarray Sum After Deletion",
     "title_slug": "maximum-unique-subarray-sum-after-deletion",
