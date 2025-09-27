@@ -275,6 +275,15 @@
     ]
   },
   {
+    "id": 3492,
+    "title": "Maximum Containers on a Ship",
+    "title_slug": "maximum-containers-on-a-ship",
+    "difficulty": "Easy",
+    "skills": [
+      "Math"
+    ]
+  },
+  {
     "id": 3507,
     "title": "Minimum Pair Removal to Sort Array I",
     "title_slug": "minimum-pair-removal-to-sort-array-i",
