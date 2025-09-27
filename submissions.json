@@ -275,6 +275,17 @@
     ]
   },
   {
+    "id": 3487,
+    "title": "Maximum Unique Subarray Sum After Deletion",
+    "title_slug": "maximum-unique-subarray-sum-after-deletion",
+    "difficulty": "Easy",
+    "skills": [
+      "Array",
+      "Greedy",
+      "Hash Table"
+    ]
+  },
+  {
     "id": 3492,
     "title": "Maximum Containers on a Ship",
     "title_slug": "maximum-containers-on-a-ship",
