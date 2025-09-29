@@ -575,6 +575,17 @@
     ]
   },
   {
+    "id": 3692,
+    "title": "Majority Frequency Characters",
+    "title_slug": "majority-frequency-characters",
+    "difficulty": "Easy",
+    "skills": [
+      "Counting",
+      "Hash Table",
+      "String"
+    ]
+  },
+  {
     "id": 3697,
     "title": "Compute Decimal Representation",
     "title_slug": "compute-decimal-representation",

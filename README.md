@@ -60,4 +60,5 @@
 | 3684 | [Maximize Sum of At Most K Distinct Elements](https://leetcode.com/problems/maximize-sum-of-at-most-k-distinct-elements) | Easy | `Array` `Greedy` `Hash Table` `Sorting` |
 | 3688 | [Bitwise OR of Even Numbers in an Array](https://leetcode.com/problems/bitwise-or-of-even-numbers-in-an-array) | Easy | `Array` `Bit Manipulation` `Simulation` |
 | 3689 | [Maximum Total Subarray Value I](https://leetcode.com/problems/maximum-total-subarray-value-i) | Medium | `Array` `Greedy` |
+| 3692 | [Majority Frequency Characters](https://leetcode.com/problems/majority-frequency-characters) | Easy | `Counting` `Hash Table` `String` |
 | 3697 | [Compute Decimal Representation](https://leetcode.com/problems/compute-decimal-representation) | Easy | `Array` `Math` |
