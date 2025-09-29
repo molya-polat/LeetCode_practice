@@ -573,5 +573,15 @@
       "Array",
       "Greedy"
     ]
+  },
+  {
+    "id": 3697,
+    "title": "Compute Decimal Representation",
+    "title_slug": "compute-decimal-representation",
+    "difficulty": "Easy",
+    "skills": [
+      "Array",
+      "Math"
+    ]
   }
 ]
