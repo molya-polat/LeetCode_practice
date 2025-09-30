@@ -275,6 +275,19 @@
     ]
   },
   {
+    "id": 3477,
+    "title": "Fruits Into Baskets II",
+    "title_slug": "fruits-into-baskets-ii",
+    "difficulty": "Easy",
+    "skills": [
+      "Array",
+      "Binary Search",
+      "Ordered Set",
+      "Segment Tree",
+      "Simulation"
+    ]
+  },
+  {
     "id": 3483,
     "title": "Unique 3-Digit Even Numbers",
     "title_slug": "unique-3-digit-even-numbers",
