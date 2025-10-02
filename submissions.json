@@ -651,5 +651,15 @@
       "Array",
       "Math"
     ]
+  },
+  {
+    "id": 3698,
+    "title": "Split Array With Minimum Difference",
+    "title_slug": "split-array-with-minimum-difference",
+    "difficulty": "Medium",
+    "skills": [
+      "Array",
+      "Prefix Sum"
+    ]
   }
 ]
