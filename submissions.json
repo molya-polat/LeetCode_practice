@@ -285,6 +285,19 @@
     ]
   },
   {
+    "id": 3461,
+    "title": "Check If Digits Are Equal in String After Operations I",
+    "title_slug": "check-if-digits-are-equal-in-string-after-operations-i",
+    "difficulty": "Easy",
+    "skills": [
+      "Combinatorics",
+      "Math",
+      "Number Theory",
+      "Simulation",
+      "String"
+    ]
+  },
+  {
     "id": 3467,
     "title": "Transform Array by Parity",
     "title_slug": "transform-array-by-parity",
