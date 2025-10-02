@@ -275,6 +275,17 @@
     ]
   },
   {
+    "id": 3467,
+    "title": "Transform Array by Parity",
+    "title_slug": "transform-array-by-parity",
+    "difficulty": "Easy",
+    "skills": [
+      "Array",
+      "Counting",
+      "Sorting"
+    ]
+  },
+  {
     "id": 3471,
     "title": "Find the Largest Almost Missing Integer",
     "title_slug": "find-the-largest-almost-missing-integer",
