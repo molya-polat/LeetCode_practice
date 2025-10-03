@@ -643,6 +643,18 @@
     ]
   },
   {
+    "id": 3694,
+    "title": "Distinct Points Reachable After Substring Removal",
+    "title_slug": "distinct-points-reachable-after-substring-removal",
+    "difficulty": "Medium",
+    "skills": [
+      "Hash Table",
+      "Prefix Sum",
+      "Sliding Window",
+      "String"
+    ]
+  },
+  {
     "id": 3697,
     "title": "Compute Decimal Representation",
     "title_slug": "compute-decimal-representation",

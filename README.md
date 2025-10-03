@@ -66,5 +66,6 @@
 | 3688 | [Bitwise OR of Even Numbers in an Array](https://leetcode.com/problems/bitwise-or-of-even-numbers-in-an-array) | Easy | `Array` `Bit Manipulation` `Simulation` |
 | 3689 | [Maximum Total Subarray Value I](https://leetcode.com/problems/maximum-total-subarray-value-i) | Medium | `Array` `Greedy` |
 | 3692 | [Majority Frequency Characters](https://leetcode.com/problems/majority-frequency-characters) | Easy | `Counting` `Hash Table` `String` |
+| 3694 | [Distinct Points Reachable After Substring Removal](https://leetcode.com/problems/distinct-points-reachable-after-substring-removal) | Medium | `Hash Table` `Prefix Sum` `Sliding Window` `String` |
 | 3697 | [Compute Decimal Representation](https://leetcode.com/problems/compute-decimal-representation) | Easy | `Array` `Math` |
 | 3698 | [Split Array With Minimum Difference](https://leetcode.com/problems/split-array-with-minimum-difference) | Medium | `Array` `Prefix Sum` |
