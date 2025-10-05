@@ -244,6 +244,16 @@
     ]
   },
   {
+    "id": 3396,
+    "title": "Minimum Number of Operations to Make Elements in Array Distinct",
+    "title_slug": "minimum-number-of-operations-to-make-elements-in-array-distinct",
+    "difficulty": "Easy",
+    "skills": [
+      "Array",
+      "Hash Table"
+    ]
+  },
+  {
     "id": 3402,
     "title": "Minimum Operations to Make Columns Strictly Increasing",
     "title_slug": "minimum-operations-to-make-columns-strictly-increasing",
