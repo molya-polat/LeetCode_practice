@@ -653,6 +653,16 @@
     ]
   },
   {
+    "id": 3693,
+    "title": "Climbing Stairs II",
+    "title_slug": "climbing-stairs-ii",
+    "difficulty": "Medium",
+    "skills": [
+      "Array",
+      "Dynamic Programming"
+    ]
+  },
+  {
     "id": 3694,
     "title": "Distinct Points Reachable After Substring Removal",
     "title_slug": "distinct-points-reachable-after-substring-removal",
