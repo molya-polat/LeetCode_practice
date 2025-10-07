@@ -693,5 +693,15 @@
       "Array",
       "Prefix Sum"
     ]
+  },
+  {
+    "id": 3701,
+    "title": "Compute Alternating Sum",
+    "title_slug": "compute-alternating-sum",
+    "difficulty": "Easy",
+    "skills": [
+      "Array",
+      "Simulation"
+    ]
   }
 ]

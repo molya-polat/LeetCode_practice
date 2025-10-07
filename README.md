@@ -71,3 +71,4 @@
 | 3694 | [Distinct Points Reachable After Substring Removal](https://leetcode.com/problems/distinct-points-reachable-after-substring-removal) | Medium | `Hash Table` `Prefix Sum` `Sliding Window` `String` |
 | 3697 | [Compute Decimal Representation](https://leetcode.com/problems/compute-decimal-representation) | Easy | `Array` `Math` |
 | 3698 | [Split Array With Minimum Difference](https://leetcode.com/problems/split-array-with-minimum-difference) | Medium | `Array` `Prefix Sum` |
+| 3701 | [Compute Alternating Sum](https://leetcode.com/problems/compute-alternating-sum) | Easy | `Array` `Simulation` |
