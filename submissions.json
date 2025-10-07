@@ -724,5 +724,16 @@
       "Array",
       "Simulation"
     ]
+  },
+  {
+    "id": 3703,
+    "title": "Remove K-Balanced Substrings",
+    "title_slug": "remove-k-balanced-substrings",
+    "difficulty": "Medium",
+    "skills": [
+      "Simulation",
+      "Stack",
+      "String"
+    ]
   }
 ]
