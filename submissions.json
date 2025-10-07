@@ -82,6 +82,16 @@
     ]
   },
   {
+    "id": 118,
+    "title": "Pascal's Triangle",
+    "title_slug": "pascals-triangle",
+    "difficulty": "Easy",
+    "skills": [
+      "Array",
+      "Dynamic Programming"
+    ]
+  },
+  {
     "id": 136,
     "title": "Single Number",
     "title_slug": "single-number",
