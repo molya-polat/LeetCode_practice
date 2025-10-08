@@ -630,6 +630,17 @@
     ]
   },
   {
+    "id": 3680,
+    "title": "Generate Schedule",
+    "title_slug": "generate-schedule",
+    "difficulty": "Medium",
+    "skills": [
+      "Array",
+      "Greedy",
+      "Math"
+    ]
+  },
+  {
     "id": 3683,
     "title": "Earliest Time to Finish One Task",
     "title_slug": "earliest-time-to-finish-one-task",

@@ -65,6 +65,7 @@
 | 3663 | [Find The Least Frequent Digit](https://leetcode.com/problems/find-the-least-frequent-digit) | Easy | `Array` `Counting` `Hash Table` `Math` |
 | 3668 | [Restore Finishing Order](https://leetcode.com/problems/restore-finishing-order) | Easy | `Array` `Hash Table` |
 | 3678 | [Smallest Absent Positive Greater Than Average](https://leetcode.com/problems/smallest-absent-positive-greater-than-average) | Easy | `Array` `Hash Table` |
+| 3680 | [Generate Schedule](https://leetcode.com/problems/generate-schedule) | Medium | `Array` `Greedy` `Math` |
 | 3683 | [Earliest Time to Finish One Task](https://leetcode.com/problems/earliest-time-to-finish-one-task) | Easy | `Array` |
 | 3684 | [Maximize Sum of At Most K Distinct Elements](https://leetcode.com/problems/maximize-sum-of-at-most-k-distinct-elements) | Easy | `Array` `Greedy` `Hash Table` `Sorting` |
 | 3688 | [Bitwise OR of Even Numbers in an Array](https://leetcode.com/problems/bitwise-or-of-even-numbers-in-an-array) | Easy | `Array` `Bit Manipulation` `Simulation` |
