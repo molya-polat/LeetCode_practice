@@ -36,6 +36,7 @@
 | 3423 | [Maximum Difference Between Adjacent Elements in a Circular Array](https://leetcode.com/problems/maximum-difference-between-adjacent-elements-in-a-circular-array) | Easy | `Array` |
 | 3427 | [Sum of Variable Length Subarrays](https://leetcode.com/problems/sum-of-variable-length-subarrays) | Easy | `Array` `Prefix Sum` |
 | 3432 | [Count Partitions with Even Sum Difference](https://leetcode.com/problems/count-partitions-with-even-sum-difference) | Easy | `Array` `Math` `Prefix Sum` |
+| 3452 | [Sum of Good Numbers](https://leetcode.com/problems/sum-of-good-numbers) | Easy | `Array` |
 | 3456 | [Find Special Substring of Length K](https://leetcode.com/problems/find-special-substring-of-length-k) | Easy | `String` |
 | 3461 | [Check If Digits Are Equal in String After Operations I](https://leetcode.com/problems/check-if-digits-are-equal-in-string-after-operations-i) | Easy | `Combinatorics` `Math` `Number Theory` `Simulation` `String` |
 | 3467 | [Transform Array by Parity](https://leetcode.com/problems/transform-array-by-parity) | Easy | `Array` `Counting` `Sorting` |

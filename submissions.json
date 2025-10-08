@@ -316,6 +316,15 @@
     ]
   },
   {
+    "id": 3452,
+    "title": "Sum of Good Numbers",
+    "title_slug": "sum-of-good-numbers",
+    "difficulty": "Easy",
+    "skills": [
+      "Array"
+    ]
+  },
+  {
     "id": 3456,
     "title": "Find Special Substring of Length K",
     "title_slug": "find-special-substring-of-length-k",
