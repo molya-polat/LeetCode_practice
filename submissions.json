@@ -286,6 +286,19 @@
     ]
   },
   {
+    "id": 3411,
+    "title": "Maximum Subarray With Equal Products",
+    "title_slug": "maximum-subarray-with-equal-products",
+    "difficulty": "Easy",
+    "skills": [
+      "Array",
+      "Enumeration",
+      "Math",
+      "Number Theory",
+      "Sliding Window"
+    ]
+  },
+  {
     "id": 3417,
     "title": "Zigzag Grid Traversal With Skip",
     "title_slug": "zigzag-grid-traversal-with-skip",
