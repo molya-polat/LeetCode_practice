@@ -286,6 +286,17 @@
     ]
   },
   {
+    "id": 3417,
+    "title": "Zigzag Grid Traversal With Skip",
+    "title_slug": "zigzag-grid-traversal-with-skip",
+    "difficulty": "Easy",
+    "skills": [
+      "Array",
+      "Matrix",
+      "Simulation"
+    ]
+  },
+  {
     "id": 3423,
     "title": "Maximum Difference Between Adjacent Elements in a Circular Array",
     "title_slug": "maximum-difference-between-adjacent-elements-in-a-circular-array",
