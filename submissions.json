@@ -827,5 +827,17 @@
       "Stack",
       "String"
     ]
+  },
+  {
+    "id": 3713,
+    "title": "Longest Balanced Substring I",
+    "title_slug": "longest-balanced-substring-i",
+    "difficulty": "Medium",
+    "skills": [
+      "Counting",
+      "Enumeration",
+      "Hash Table",
+      "String"
+    ]
   }
 ]

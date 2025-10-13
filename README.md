@@ -84,3 +84,4 @@
 | 3698 | [Split Array With Minimum Difference](https://leetcode.com/problems/split-array-with-minimum-difference) | Medium | `Array` `Prefix Sum` |
 | 3701 | [Compute Alternating Sum](https://leetcode.com/problems/compute-alternating-sum) | Easy | `Array` `Simulation` |
 | 3703 | [Remove K-Balanced Substrings](https://leetcode.com/problems/remove-k-balanced-substrings) | Medium | `Simulation` `Stack` `String` |
+| 3713 | [Longest Balanced Substring I](https://leetcode.com/problems/longest-balanced-substring-i) | Medium | `Counting` `Enumeration` `Hash Table` `String` |
