@@ -265,6 +265,15 @@
     ]
   },
   {
+    "id": 3386,
+    "title": "Button with Longest Push Time",
+    "title_slug": "button-with-longest-push-time",
+    "difficulty": "Easy",
+    "skills": [
+      "Array"
+    ]
+  },
+  {
     "id": 3392,
     "title": "Count Subarrays of Length Three With a Condition",
     "title_slug": "count-subarrays-of-length-three-with-a-condition",
