@@ -829,6 +829,17 @@
     ]
   },
   {
+    "id": 3712,
+    "title": "Sum of Elements With Frequency Divisible by K",
+    "title_slug": "sum-of-elements-with-frequency-divisible-by-k",
+    "difficulty": "Easy",
+    "skills": [
+      "Array",
+      "Counting",
+      "Hash Table"
+    ]
+  },
+  {
     "id": 3713,
     "title": "Longest Balanced Substring I",
     "title_slug": "longest-balanced-substring-i",
