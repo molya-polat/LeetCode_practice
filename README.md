@@ -28,6 +28,7 @@
 | 1342 | [Number of Steps to Reduce a Number to Zero](https://leetcode.com/problems/number-of-steps-to-reduce-a-number-to-zero) | Easy | `Bit Manipulation` `Math` |
 | 1491 | [Average Salary Excluding the Minimum and Maximum Salary](https://leetcode.com/problems/average-salary-excluding-the-minimum-and-maximum-salary) | Easy | `Array` `Sorting` |
 | 1672 | [Richest Customer Wealth](https://leetcode.com/problems/richest-customer-wealth) | Easy | `Array` `Matrix` |
+| 2221 | [Find Triangular Sum of an Array](https://leetcode.com/problems/find-triangular-sum-of-an-array) | Medium | `Array` `Combinatorics` `Math` `Number Theory` `Simulation` |
 | 3360 | [Stone Removal Game](https://leetcode.com/problems/stone-removal-game) | Easy | `Math` `Simulation` |
 | 3364 | [Minimum Positive Sum Subarray ](https://leetcode.com/problems/minimum-positive-sum-subarray) | Easy | `Array` `Prefix Sum` `Sliding Window` |
 | 3370 | [Smallest Number With All Set Bits](https://leetcode.com/problems/smallest-number-with-all-set-bits) | Easy | `Bit Manipulation` `Math` |
