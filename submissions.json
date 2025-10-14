@@ -829,6 +829,16 @@
     ]
   },
   {
+    "id": 3707,
+    "title": "Equal Score Substrings",
+    "title_slug": "equal-score-substrings",
+    "difficulty": "Easy",
+    "skills": [
+      "Prefix Sum",
+      "String"
+    ]
+  },
+  {
     "id": 3712,
     "title": "Sum of Elements With Frequency Divisible by K",
     "title_slug": "sum-of-elements-with-frequency-divisible-by-k",
