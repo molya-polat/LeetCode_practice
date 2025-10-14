@@ -247,6 +247,17 @@
     ]
   },
   {
+    "id": 2294,
+    "title": "Partition Array Such That Maximum Difference Is K",
+    "title_slug": "partition-array-such-that-maximum-difference-is-k",
+    "difficulty": "Medium",
+    "skills": [
+      "Array",
+      "Greedy",
+      "Sorting"
+    ]
+  },
+  {
     "id": 3360,
     "title": "Stone Removal Game",
     "title_slug": "stone-removal-game",
