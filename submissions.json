@@ -289,6 +289,16 @@
     ]
   },
   {
+    "id": 3379,
+    "title": "Transformed Array",
+    "title_slug": "transformed-array",
+    "difficulty": "Easy",
+    "skills": [
+      "Array",
+      "Simulation"
+    ]
+  },
+  {
     "id": 3386,
     "title": "Button with Longest Push Time",
     "title_slug": "button-with-longest-push-time",

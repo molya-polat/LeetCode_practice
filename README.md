@@ -33,6 +33,7 @@
 | 3360 | [Stone Removal Game](https://leetcode.com/problems/stone-removal-game) | Easy | `Math` `Simulation` |
 | 3364 | [Minimum Positive Sum Subarray ](https://leetcode.com/problems/minimum-positive-sum-subarray) | Easy | `Array` `Prefix Sum` `Sliding Window` |
 | 3370 | [Smallest Number With All Set Bits](https://leetcode.com/problems/smallest-number-with-all-set-bits) | Easy | `Bit Manipulation` `Math` |
+| 3379 | [Transformed Array](https://leetcode.com/problems/transformed-array) | Easy | `Array` `Simulation` |
 | 3386 | [Button with Longest Push Time](https://leetcode.com/problems/button-with-longest-push-time) | Easy | `Array` |
 | 3392 | [Count Subarrays of Length Three With a Condition](https://leetcode.com/problems/count-subarrays-of-length-three-with-a-condition) | Easy | `Array` |
 | 3396 | [Minimum Number of Operations to Make Elements in Array Distinct](https://leetcode.com/problems/minimum-number-of-operations-to-make-elements-in-array-distinct) | Easy | `Array` `Hash Table` |
