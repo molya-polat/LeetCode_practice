@@ -258,6 +258,16 @@
     ]
   },
   {
+    "id": 3100,
+    "title": "Water Bottles II",
+    "title_slug": "water-bottles-ii",
+    "difficulty": "Medium",
+    "skills": [
+      "Math",
+      "Simulation"
+    ]
+  },
+  {
     "id": 3360,
     "title": "Stone Removal Game",
     "title_slug": "stone-removal-game",
