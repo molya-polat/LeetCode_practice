@@ -33,6 +33,7 @@
 | 3100 | [Water Bottles II](https://leetcode.com/problems/water-bottles-ii) | Medium | `Math` `Simulation` |
 | 3340 | [Check Balanced String](https://leetcode.com/problems/check-balanced-string) | Easy | `String` |
 | 3345 | [Smallest Divisible Digit Product I](https://leetcode.com/problems/smallest-divisible-digit-product-i) | Easy | `Enumeration` `Math` |
+| 3349 | [Adjacent Increasing Subarrays Detection I](https://leetcode.com/problems/adjacent-increasing-subarrays-detection-i) | Easy | `Array` |
 | 3354 | [Make Array Elements Equal to Zero](https://leetcode.com/problems/make-array-elements-equal-to-zero) | Easy | `Array` `Prefix Sum` `Simulation` |
 | 3360 | [Stone Removal Game](https://leetcode.com/problems/stone-removal-game) | Easy | `Math` `Simulation` |
 | 3364 | [Minimum Positive Sum Subarray ](https://leetcode.com/problems/minimum-positive-sum-subarray) | Easy | `Array` `Prefix Sum` `Sliding Window` |
