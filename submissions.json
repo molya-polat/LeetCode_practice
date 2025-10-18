@@ -268,6 +268,16 @@
     ]
   },
   {
+    "id": 3345,
+    "title": "Smallest Divisible Digit Product I",
+    "title_slug": "smallest-divisible-digit-product-i",
+    "difficulty": "Easy",
+    "skills": [
+      "Enumeration",
+      "Math"
+    ]
+  },
+  {
     "id": 3354,
     "title": "Make Array Elements Equal to Zero",
     "title_slug": "make-array-elements-equal-to-zero",
