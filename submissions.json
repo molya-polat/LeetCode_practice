@@ -268,6 +268,15 @@
     ]
   },
   {
+    "id": 3340,
+    "title": "Check Balanced String",
+    "title_slug": "check-balanced-string",
+    "difficulty": "Easy",
+    "skills": [
+      "String"
+    ]
+  },
+  {
     "id": 3345,
     "title": "Smallest Divisible Digit Product I",
     "title_slug": "smallest-divisible-digit-product-i",

@@ -31,6 +31,7 @@
 | 2221 | [Find Triangular Sum of an Array](https://leetcode.com/problems/find-triangular-sum-of-an-array) | Medium | `Array` `Combinatorics` `Math` `Number Theory` `Simulation` |
 | 2294 | [Partition Array Such That Maximum Difference Is K](https://leetcode.com/problems/partition-array-such-that-maximum-difference-is-k) | Medium | `Array` `Greedy` `Sorting` |
 | 3100 | [Water Bottles II](https://leetcode.com/problems/water-bottles-ii) | Medium | `Math` `Simulation` |
+| 3340 | [Check Balanced String](https://leetcode.com/problems/check-balanced-string) | Easy | `String` |
 | 3345 | [Smallest Divisible Digit Product I](https://leetcode.com/problems/smallest-divisible-digit-product-i) | Easy | `Enumeration` `Math` |
 | 3354 | [Make Array Elements Equal to Zero](https://leetcode.com/problems/make-array-elements-equal-to-zero) | Easy | `Array` `Prefix Sum` `Simulation` |
 | 3360 | [Stone Removal Game](https://leetcode.com/problems/stone-removal-game) | Easy | `Math` `Simulation` |
