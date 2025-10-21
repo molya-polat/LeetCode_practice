@@ -145,6 +145,17 @@
     ]
   },
   {
+    "id": 231,
+    "title": "Power of Two",
+    "title_slug": "power-of-two",
+    "difficulty": "Easy",
+    "skills": [
+      "Bit Manipulation",
+      "Math",
+      "Recursion"
+    ]
+  },
+  {
     "id": 234,
     "title": "Palindrome Linked List",
     "title_slug": "palindrome-linked-list",
