@@ -1007,5 +1007,15 @@
       "Hash Table",
       "String"
     ]
+  },
+  {
+    "id": 3718,
+    "title": "Smallest Missing Multiple of K",
+    "title_slug": "smallest-missing-multiple-of-k",
+    "difficulty": "Easy",
+    "skills": [
+      "Array",
+      "Hash Table"
+    ]
   }
 ]

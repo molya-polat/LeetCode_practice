@@ -101,3 +101,4 @@
 | 3707 | [Equal Score Substrings](https://leetcode.com/problems/equal-score-substrings) | Easy | `Prefix Sum` `String` |
 | 3712 | [Sum of Elements With Frequency Divisible by K](https://leetcode.com/problems/sum-of-elements-with-frequency-divisible-by-k) | Easy | `Array` `Counting` `Hash Table` |
 | 3713 | [Longest Balanced Substring I](https://leetcode.com/problems/longest-balanced-substring-i) | Medium | `Counting` `Enumeration` `Hash Table` `String` |
+| 3718 | [Smallest Missing Multiple of K](https://leetcode.com/problems/smallest-missing-multiple-of-k) | Easy | `Array` `Hash Table` |
