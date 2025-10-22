@@ -35,6 +35,7 @@
 | 2221 | [Find Triangular Sum of an Array](https://leetcode.com/problems/find-triangular-sum-of-an-array) | Medium | `Array` `Combinatorics` `Math` `Number Theory` `Simulation` |
 | 2294 | [Partition Array Such That Maximum Difference Is K](https://leetcode.com/problems/partition-array-such-that-maximum-difference-is-k) | Medium | `Array` `Greedy` `Sorting` |
 | 3100 | [Water Bottles II](https://leetcode.com/problems/water-bottles-ii) | Medium | `Math` `Simulation` |
+| 3318 | [Find X-Sum of All K-Long Subarrays I](https://leetcode.com/problems/find-x-sum-of-all-k-long-subarrays-i) | Easy | `Array` `Hash Table` `Heap (Priority Queue)` `Sliding Window` |
 | 3330 | [Find the Original Typed String I](https://leetcode.com/problems/find-the-original-typed-string-i) | Easy | `String` |
 | 3340 | [Check Balanced String](https://leetcode.com/problems/check-balanced-string) | Easy | `String` |
 | 3345 | [Smallest Divisible Digit Product I](https://leetcode.com/problems/smallest-divisible-digit-product-i) | Easy | `Enumeration` `Math` |
