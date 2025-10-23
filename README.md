@@ -99,6 +99,7 @@
 | 3697 | [Compute Decimal Representation](https://leetcode.com/problems/compute-decimal-representation) | Easy | `Array` `Math` |
 | 3698 | [Split Array With Minimum Difference](https://leetcode.com/problems/split-array-with-minimum-difference) | Medium | `Array` `Prefix Sum` |
 | 3701 | [Compute Alternating Sum](https://leetcode.com/problems/compute-alternating-sum) | Easy | `Array` `Simulation` |
+| 3702 | [Longest Subsequence With Non-Zero Bitwise XOR](https://leetcode.com/problems/longest-subsequence-with-non-zero-bitwise-xor) | Medium | `Array` `Bit Manipulation` |
 | 3703 | [Remove K-Balanced Substrings](https://leetcode.com/problems/remove-k-balanced-substrings) | Medium | `Simulation` `Stack` `String` |
 | 3707 | [Equal Score Substrings](https://leetcode.com/problems/equal-score-substrings) | Easy | `Prefix Sum` `String` |
 | 3712 | [Sum of Elements With Frequency Divisible by K](https://leetcode.com/problems/sum-of-elements-with-frequency-divisible-by-k) | Easy | `Array` `Counting` `Hash Table` |
