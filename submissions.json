@@ -334,6 +334,16 @@
     ]
   },
   {
+    "id": 3300,
+    "title": "Minimum Element After Replacement With Digit Sum",
+    "title_slug": "minimum-element-after-replacement-with-digit-sum",
+    "difficulty": "Easy",
+    "skills": [
+      "Array",
+      "Math"
+    ]
+  },
+  {
     "id": 3304,
     "title": "Find the K-th Character in String Game I",
     "title_slug": "find-the-k-th-character-in-string-game-i",
