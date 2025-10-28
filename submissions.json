@@ -235,6 +235,17 @@
     ]
   },
   {
+    "id": 1137,
+    "title": "N-th Tribonacci Number",
+    "title_slug": "n-th-tribonacci-number",
+    "difficulty": "Easy",
+    "skills": [
+      "Dynamic Programming",
+      "Math",
+      "Memoization"
+    ]
+  },
+  {
     "id": 1282,
     "title": "Group the People Given the Group Size They Belong To",
     "title_slug": "group-the-people-given-the-group-size-they-belong-to",
