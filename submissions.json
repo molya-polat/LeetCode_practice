@@ -113,6 +113,16 @@
     ]
   },
   {
+    "id": 120,
+    "title": "Triangle",
+    "title_slug": "triangle",
+    "difficulty": "Medium",
+    "skills": [
+      "Array",
+      "Dynamic Programming"
+    ]
+  },
+  {
     "id": 122,
     "title": "Best Time to Buy and Sell Stock II",
     "title_slug": "best-time-to-buy-and-sell-stock-ii",
