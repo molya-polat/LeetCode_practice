@@ -125,6 +125,15 @@
     ]
   },
   {
+    "id": 77,
+    "title": "Combinations",
+    "title_slug": "combinations",
+    "difficulty": "Medium",
+    "skills": [
+      "Backtracking"
+    ]
+  },
+  {
     "id": 118,
     "title": "Pascal's Triangle",
     "title_slug": "pascals-triangle",
