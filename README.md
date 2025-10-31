@@ -11,6 +11,7 @@
 | 0027 | [Remove Element](https://leetcode.com/problems/remove-element) | Easy | `Array` `Two Pointers` |
 | 0028 | [Find the Index of the First Occurrence in a String](https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string) | Easy | `String` `String Matching` `Two Pointers` |
 | 0046 | [Permutations](https://leetcode.com/problems/permutations) | Medium | `Array` `Backtracking` |
+| 0055 | [Jump Game](https://leetcode.com/problems/jump-game) | Medium | `Array` `Dynamic Programming` `Greedy` |
 | 0058 | [Length of Last Word](https://leetcode.com/problems/length-of-last-word) | Easy | `String` |
 | 0063 | [Unique Paths II](https://leetcode.com/problems/unique-paths-ii) | Medium | `Array` `Dynamic Programming` `Matrix` |
 | 0064 | [Minimum Path Sum](https://leetcode.com/problems/minimum-path-sum) | Medium | `Array` `Dynamic Programming` `Matrix` |

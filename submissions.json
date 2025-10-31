@@ -51,6 +51,17 @@
     ]
   },
   {
+    "id": 55,
+    "title": "Jump Game",
+    "title_slug": "jump-game",
+    "difficulty": "Medium",
+    "skills": [
+      "Array",
+      "Dynamic Programming",
+      "Greedy"
+    ]
+  },
+  {
     "id": 58,
     "title": "Length of Last Word",
     "title_slug": "length-of-last-word",
