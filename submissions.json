@@ -1009,6 +1009,17 @@
     ]
   },
   {
+    "id": 3670,
+    "title": "Maximum Product of Two Integers With No Common Bits",
+    "title_slug": "maximum-product-of-two-integers-with-no-common-bits",
+    "difficulty": "Medium",
+    "skills": [
+      "Array",
+      "Bit Manipulation",
+      "Dynamic Programming"
+    ]
+  },
+  {
     "id": 3678,
     "title": "Smallest Absent Positive Greater Than Average",
     "title_slug": "smallest-absent-positive-greater-than-average",

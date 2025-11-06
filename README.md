@@ -101,6 +101,7 @@
 | 3658 | [GCD of Odd and Even Sums](https://leetcode.com/problems/gcd-of-odd-and-even-sums) | Easy | `Math` `Number Theory` |
 | 3663 | [Find The Least Frequent Digit](https://leetcode.com/problems/find-the-least-frequent-digit) | Easy | `Array` `Counting` `Hash Table` `Math` |
 | 3668 | [Restore Finishing Order](https://leetcode.com/problems/restore-finishing-order) | Easy | `Array` `Hash Table` |
+| 3670 | [Maximum Product of Two Integers With No Common Bits](https://leetcode.com/problems/maximum-product-of-two-integers-with-no-common-bits) | Medium | `Array` `Bit Manipulation` `Dynamic Programming` |
 | 3678 | [Smallest Absent Positive Greater Than Average](https://leetcode.com/problems/smallest-absent-positive-greater-than-average) | Easy | `Array` `Hash Table` |
 | 3680 | [Generate Schedule](https://leetcode.com/problems/generate-schedule) | Medium | `Array` `Greedy` `Math` |
 | 3683 | [Earliest Time to Finish One Task](https://leetcode.com/problems/earliest-time-to-finish-one-task) | Easy | `Array` |
