@@ -207,6 +207,16 @@
     ]
   },
   {
+    "id": 205,
+    "title": "Isomorphic Strings",
+    "title_slug": "isomorphic-strings",
+    "difficulty": "Easy",
+    "skills": [
+      "Hash Table",
+      "String"
+    ]
+  },
+  {
     "id": 217,
     "title": "Contains Duplicate",
     "title_slug": "contains-duplicate",
