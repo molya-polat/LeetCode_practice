@@ -251,6 +251,17 @@
     ]
   },
   {
+    "id": 242,
+    "title": "Valid Anagram",
+    "title_slug": "valid-anagram",
+    "difficulty": "Easy",
+    "skills": [
+      "Hash Table",
+      "Sorting",
+      "String"
+    ]
+  },
+  {
     "id": 263,
     "title": "Ugly Number",
     "title_slug": "ugly-number",

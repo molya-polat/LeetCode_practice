@@ -30,6 +30,7 @@
 | 0217 | [Contains Duplicate](https://leetcode.com/problems/contains-duplicate) | Easy | `Array` `Hash Table` `Sorting` |
 | 0231 | [Power of Two](https://leetcode.com/problems/power-of-two) | Easy | `Bit Manipulation` `Math` `Recursion` |
 | 0234 | [Palindrome Linked List](https://leetcode.com/problems/palindrome-linked-list) | Easy | `Linked List` `Recursion` `Stack` `Two Pointers` |
+| 0242 | [Valid Anagram](https://leetcode.com/problems/valid-anagram) | Easy | `Hash Table` `Sorting` `String` |
 | 0263 | [Ugly Number](https://leetcode.com/problems/ugly-number) | Easy | `Math` |
 | 0268 | [Missing Number](https://leetcode.com/problems/missing-number) | Easy | `Array` `Binary Search` `Bit Manipulation` `Hash Table` `Math` `Sorting` |
 | 0309 | [Best Time to Buy and Sell Stock with Cooldown](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-cooldown) | Medium | `Array` `Dynamic Programming` |
