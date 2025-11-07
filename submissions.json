@@ -315,6 +315,17 @@
     ]
   },
   {
+    "id": 447,
+    "title": "Number of Boomerangs",
+    "title_slug": "number-of-boomerangs",
+    "difficulty": "Medium",
+    "skills": [
+      "Array",
+      "Hash Table",
+      "Math"
+    ]
+  },
+  {
     "id": 509,
     "title": "Fibonacci Number",
     "title_slug": "fibonacci-number",
