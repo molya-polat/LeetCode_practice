@@ -437,6 +437,17 @@
     ]
   },
   {
+    "id": 2684,
+    "title": "Maximum Number of Moves in a Grid",
+    "title_slug": "maximum-number-of-moves-in-a-grid",
+    "difficulty": "Medium",
+    "skills": [
+      "Array",
+      "Dynamic Programming",
+      "Matrix"
+    ]
+  },
+  {
     "id": 3100,
     "title": "Water Bottles II",
     "title_slug": "water-bottles-ii",
