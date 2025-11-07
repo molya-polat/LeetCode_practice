@@ -228,6 +228,15 @@
     ]
   },
   {
+    "id": 228,
+    "title": "Summary Ranges",
+    "title_slug": "summary-ranges",
+    "difficulty": "Easy",
+    "skills": [
+      "Array"
+    ]
+  },
+  {
     "id": 231,
     "title": "Power of Two",
     "title_slug": "power-of-two",
