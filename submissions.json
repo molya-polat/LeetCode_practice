@@ -1261,5 +1261,16 @@
       "Array",
       "Hash Table"
     ]
+  },
+  {
+    "id": 3728,
+    "title": "Stable Subarrays With Equal Boundary and Interior Sum",
+    "title_slug": "stable-subarrays-with-equal-boundary-and-interior-sum",
+    "difficulty": "Medium",
+    "skills": [
+      "Array",
+      "Hash Table",
+      "Prefix Sum"
+    ]
   }
 ]
