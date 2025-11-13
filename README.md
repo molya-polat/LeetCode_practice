@@ -20,6 +20,7 @@
 | 0067 | [Add Binary](https://leetcode.com/problems/add-binary) | Easy | `Bit Manipulation` `Math` `Simulation` `String` |
 | 0069 | [Sqrt(x)](https://leetcode.com/problems/sqrtx) | Easy | `Binary Search` `Math` |
 | 0077 | [Combinations](https://leetcode.com/problems/combinations) | Medium | `Backtracking` |
+| 0088 | [Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array) | Easy | `Array` `Sorting` `Two Pointers` |
 | 0118 | [Pascal's Triangle](https://leetcode.com/problems/pascals-triangle) | Easy | `Array` `Dynamic Programming` |
 | 0120 | [Triangle](https://leetcode.com/problems/triangle) | Medium | `Array` `Dynamic Programming` |
 | 0122 | [Best Time to Buy and Sell Stock II](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii) | Medium | `Array` `Dynamic Programming` `Greedy` |
