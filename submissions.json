@@ -154,6 +154,16 @@
     ]
   },
   {
+    "id": 80,
+    "title": "Remove Duplicates from Sorted Array II",
+    "title_slug": "remove-duplicates-from-sorted-array-ii",
+    "difficulty": "Medium",
+    "skills": [
+      "Array",
+      "Two Pointers"
+    ]
+  },
+  {
     "id": 88,
     "title": "Merge Sorted Array",
     "title_slug": "merge-sorted-array",
