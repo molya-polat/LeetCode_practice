@@ -345,6 +345,17 @@
     ]
   },
   {
+    "id": 392,
+    "title": "Is Subsequence",
+    "title_slug": "is-subsequence",
+    "difficulty": "Easy",
+    "skills": [
+      "Dynamic Programming",
+      "String",
+      "Two Pointers"
+    ]
+  },
+  {
     "id": 412,
     "title": "Fizz Buzz",
     "title_slug": "fizz-buzz",

@@ -39,6 +39,7 @@
 | 0263 | [Ugly Number](https://leetcode.com/problems/ugly-number) | Easy | `Math` |
 | 0268 | [Missing Number](https://leetcode.com/problems/missing-number) | Easy | `Array` `Binary Search` `Bit Manipulation` `Hash Table` `Math` `Sorting` |
 | 0309 | [Best Time to Buy and Sell Stock with Cooldown](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-cooldown) | Medium | `Array` `Dynamic Programming` |
+| 0392 | [Is Subsequence](https://leetcode.com/problems/is-subsequence) | Easy | `Dynamic Programming` `String` `Two Pointers` |
 | 0412 | [Fizz Buzz](https://leetcode.com/problems/fizz-buzz) | Easy | `Math` `Simulation` `String` |
 | 0447 | [Number of Boomerangs](https://leetcode.com/problems/number-of-boomerangs) | Medium | `Array` `Hash Table` `Math` |
 | 0509 | [Fibonacci Number](https://leetcode.com/problems/fibonacci-number) | Easy | `Dynamic Programming` `Math` `Memoization` `Recursion` |
