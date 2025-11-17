@@ -19,6 +19,17 @@
     ]
   },
   {
+    "id": 12,
+    "title": "Integer to Roman",
+    "title_slug": "integer-to-roman",
+    "difficulty": "Medium",
+    "skills": [
+      "Hash Table",
+      "Math",
+      "String"
+    ]
+  },
+  {
     "id": 13,
     "title": "Roman to Integer",
     "title_slug": "roman-to-integer",

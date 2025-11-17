@@ -8,6 +8,7 @@
 |---| ----- | ---------- | ------ |
 | 0001 | [Two Sum](https://leetcode.com/problems/two-sum) | Easy | `Array` `Hash Table` |
 | 0009 | [Palindrome Number](https://leetcode.com/problems/palindrome-number) | Easy | `Math` |
+| 0012 | [Integer to Roman](https://leetcode.com/problems/integer-to-roman) | Medium | `Hash Table` `Math` `String` |
 | 0013 | [Roman to Integer](https://leetcode.com/problems/roman-to-integer) | Easy | `Hash Table` `Math` `String` |
 | 0022 | [Generate Parentheses](https://leetcode.com/problems/generate-parentheses) | Medium | `Backtracking` `Dynamic Programming` `String` |
 | 0026 | [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array) | Easy | `Array` `Two Pointers` |
