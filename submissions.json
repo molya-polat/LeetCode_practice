@@ -19,6 +19,17 @@
     ]
   },
   {
+    "id": 13,
+    "title": "Roman to Integer",
+    "title_slug": "roman-to-integer",
+    "difficulty": "Easy",
+    "skills": [
+      "Hash Table",
+      "Math",
+      "String"
+    ]
+  },
+  {
     "id": 22,
     "title": "Generate Parentheses",
     "title_slug": "generate-parentheses",
