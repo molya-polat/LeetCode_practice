@@ -444,6 +444,22 @@
     ]
   },
   {
+    "id": 912,
+    "title": "Sort an Array",
+    "title_slug": "sort-an-array",
+    "difficulty": "Medium",
+    "skills": [
+      "Array",
+      "Bucket Sort",
+      "Counting Sort",
+      "Divide and Conquer",
+      "Heap (Priority Queue)",
+      "Merge Sort",
+      "Radix Sort",
+      "Sorting"
+    ]
+  },
+  {
     "id": 1137,
     "title": "N-th Tribonacci Number",
     "title_slug": "n-th-tribonacci-number",
