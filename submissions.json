@@ -434,6 +434,17 @@
     ]
   },
   {
+    "id": 791,
+    "title": "Custom Sort String",
+    "title_slug": "custom-sort-string",
+    "difficulty": "Medium",
+    "skills": [
+      "Hash Table",
+      "Sorting",
+      "String"
+    ]
+  },
+  {
     "id": 876,
     "title": "Middle of the Linked List",
     "title_slug": "middle-of-the-linked-list",
