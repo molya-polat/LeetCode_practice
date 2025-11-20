@@ -83,6 +83,16 @@
     ]
   },
   {
+    "id": 33,
+    "title": "Search in Rotated Sorted Array",
+    "title_slug": "search-in-rotated-sorted-array",
+    "difficulty": "Medium",
+    "skills": [
+      "Array",
+      "Binary Search"
+    ]
+  },
+  {
     "id": 46,
     "title": "Permutations",
     "title_slug": "permutations",
