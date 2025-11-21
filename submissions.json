@@ -398,6 +398,19 @@
     ]
   },
   {
+    "id": 324,
+    "title": "Wiggle Sort II",
+    "title_slug": "wiggle-sort-ii",
+    "difficulty": "Medium",
+    "skills": [
+      "Array",
+      "Divide and Conquer",
+      "Greedy",
+      "Quickselect",
+      "Sorting"
+    ]
+  },
+  {
     "id": 383,
     "title": "Ransom Note",
     "title_slug": "ransom-note",
