@@ -51,6 +51,7 @@
 | 0447 | [Number of Boomerangs](https://leetcode.com/problems/number-of-boomerangs) | Medium | `Array` `Hash Table` `Math` |
 | 0451 | [Sort Characters By Frequency](https://leetcode.com/problems/sort-characters-by-frequency) | Medium | `Bucket Sort` `Counting` `Hash Table` `Heap (Priority Queue)` `Sorting` `String` |
 | 0509 | [Fibonacci Number](https://leetcode.com/problems/fibonacci-number) | Easy | `Dynamic Programming` `Math` `Memoization` `Recursion` |
+| 0704 | [Binary Search](https://leetcode.com/problems/binary-search) | Easy | `Array` `Binary Search` |
 | 0791 | [Custom Sort String](https://leetcode.com/problems/custom-sort-string) | Medium | `Hash Table` `Sorting` `String` |
 | 0876 | [Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list) | Easy | `Linked List` `Two Pointers` |
 | 0912 | [Sort an Array](https://leetcode.com/problems/sort-an-array) | Medium | `Array` `Bucket Sort` `Counting Sort` `Divide and Conquer` `Heap (Priority Queue)` `Merge Sort` `Radix Sort` `Sorting` |
