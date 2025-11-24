@@ -25,6 +25,7 @@
 | 0067 | [Add Binary](https://leetcode.com/problems/add-binary) | Easy | `Bit Manipulation` `Math` `Simulation` `String` |
 | 0069 | [Sqrt(x)](https://leetcode.com/problems/sqrtx) | Easy | `Binary Search` `Math` |
 | 0074 | [Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix) | Medium | `Array` `Binary Search` `Matrix` |
+| 0076 | [Minimum Window Substring](https://leetcode.com/problems/minimum-window-substring) | Hard | `Hash Table` `Sliding Window` `String` |
 | 0077 | [Combinations](https://leetcode.com/problems/combinations) | Medium | `Backtracking` |
 | 0080 | [Remove Duplicates from Sorted Array II](https://leetcode.com/problems/remove-duplicates-from-sorted-array-ii) | Medium | `Array` `Two Pointers` |
 | 0088 | [Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array) | Easy | `Array` `Sorting` `Two Pointers` |

@@ -198,6 +198,17 @@
     ]
   },
   {
+    "id": 76,
+    "title": "Minimum Window Substring",
+    "title_slug": "minimum-window-substring",
+    "difficulty": "Hard",
+    "skills": [
+      "Hash Table",
+      "Sliding Window",
+      "String"
+    ]
+  },
+  {
     "id": 77,
     "title": "Combinations",
     "title_slug": "combinations",
