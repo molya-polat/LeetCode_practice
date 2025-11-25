@@ -410,6 +410,16 @@
     ]
   },
   {
+    "id": 290,
+    "title": "Word Pattern",
+    "title_slug": "word-pattern",
+    "difficulty": "Easy",
+    "skills": [
+      "Hash Table",
+      "String"
+    ]
+  },
+  {
     "id": 309,
     "title": "Best Time to Buy and Sell Stock with Cooldown",
     "title_slug": "best-time-to-buy-and-sell-stock-with-cooldown",
