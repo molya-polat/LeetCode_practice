@@ -41,6 +41,17 @@
     ]
   },
   {
+    "id": 15,
+    "title": "3Sum",
+    "title_slug": "3sum",
+    "difficulty": "Medium",
+    "skills": [
+      "Array",
+      "Sorting",
+      "Two Pointers"
+    ]
+  },
+  {
     "id": 22,
     "title": "Generate Parentheses",
     "title_slug": "generate-parentheses",
