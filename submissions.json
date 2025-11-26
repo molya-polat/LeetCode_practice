@@ -323,6 +323,16 @@
     ]
   },
   {
+    "id": 151,
+    "title": "Reverse Words in a String",
+    "title_slug": "reverse-words-in-a-string",
+    "difficulty": "Medium",
+    "skills": [
+      "String",
+      "Two Pointers"
+    ]
+  },
+  {
     "id": 167,
     "title": "Two Sum II - Input Array Is Sorted",
     "title_slug": "two-sum-ii-input-array-is-sorted",
