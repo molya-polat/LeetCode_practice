@@ -343,6 +343,16 @@
     ]
   },
   {
+    "id": 153,
+    "title": "Find Minimum in Rotated Sorted Array",
+    "title_slug": "find-minimum-in-rotated-sorted-array",
+    "difficulty": "Medium",
+    "skills": [
+      "Array",
+      "Binary Search"
+    ]
+  },
+  {
     "id": 162,
     "title": "Find Peak Element",
     "title_slug": "find-peak-element",
