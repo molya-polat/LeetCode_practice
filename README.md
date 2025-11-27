@@ -17,6 +17,7 @@
 | 0027 | [Remove Element](https://leetcode.com/problems/remove-element) | Easy | `Array` `Two Pointers` |
 | 0028 | [Find the Index of the First Occurrence in a String](https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string) | Easy | `String` `String Matching` `Two Pointers` |
 | 0033 | [Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array) | Medium | `Array` `Binary Search` |
+| 0034 | [Find First and Last Position of Element in Sorted Array](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array) | Medium | `Array` `Binary Search` |
 | 0035 | [Search Insert Position](https://leetcode.com/problems/search-insert-position) | Easy | `Array` `Binary Search` |
 | 0046 | [Permutations](https://leetcode.com/problems/permutations) | Medium | `Array` `Backtracking` |
 | 0055 | [Jump Game](https://leetcode.com/problems/jump-game) | Medium | `Array` `Dynamic Programming` `Greedy` |
