@@ -1572,5 +1572,14 @@
       "Hash Table",
       "Prefix Sum"
     ]
+  },
+  {
+    "id": 3754,
+    "title": "Concatenate Non-Zero Digits and Multiply by Sum I",
+    "title_slug": "concatenate-non-zero-digits-and-multiply-by-sum-i",
+    "difficulty": "Easy",
+    "skills": [
+      "Math"
+    ]
   }
 ]
