@@ -1574,6 +1574,18 @@
     ]
   },
   {
+    "id": 3750,
+    "title": "Minimum Number of Flips to Reverse Binary String",
+    "title_slug": "minimum-number-of-flips-to-reverse-binary-string",
+    "difficulty": "Easy",
+    "skills": [
+      "Bit Manipulation",
+      "Math",
+      "String",
+      "Two Pointers"
+    ]
+  },
+  {
     "id": 3754,
     "title": "Concatenate Non-Zero Digits and Multiply by Sum I",
     "title_slug": "concatenate-non-zero-digits-and-multiply-by-sum-i",
