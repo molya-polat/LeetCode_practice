@@ -1574,6 +1574,18 @@
     ]
   },
   {
+    "id": 3745,
+    "title": "Maximize Expression of Three Elements",
+    "title_slug": "maximize-expression-of-three-elements",
+    "difficulty": "Easy",
+    "skills": [
+      "Array",
+      "Enumeration",
+      "Greedy",
+      "Sorting"
+    ]
+  },
+  {
     "id": 3750,
     "title": "Minimum Number of Flips to Reverse Binary String",
     "title_slug": "minimum-number-of-flips-to-reverse-binary-string",
