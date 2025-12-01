@@ -156,3 +156,4 @@
 | 3745 | [Maximize Expression of Three Elements](https://leetcode.com/problems/maximize-expression-of-three-elements) | Easy | `Array` `Enumeration` `Greedy` `Sorting` |
 | 3750 | [Minimum Number of Flips to Reverse Binary String](https://leetcode.com/problems/minimum-number-of-flips-to-reverse-binary-string) | Easy | `Bit Manipulation` `Math` `String` `Two Pointers` |
 | 3754 | [Concatenate Non-Zero Digits and Multiply by Sum I](https://leetcode.com/problems/concatenate-non-zero-digits-and-multiply-by-sum-i) | Easy | `Math` |
+| 3756 | [Concatenate Non-Zero Digits and Multiply by Sum II](https://leetcode.com/problems/concatenate-non-zero-digits-and-multiply-by-sum-ii) | Medium | `Math` `Prefix Sum` `String` |
