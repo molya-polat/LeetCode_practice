@@ -1618,6 +1618,19 @@
     ]
   },
   {
+    "id": 3759,
+    "title": "Count Elements With at Least K Greater Values",
+    "title_slug": "count-elements-with-at-least-k-greater-values",
+    "difficulty": "Medium",
+    "skills": [
+      "Array",
+      "Binary Search",
+      "Divide and Conquer",
+      "Quickselect",
+      "Sorting"
+    ]
+  },
+  {
     "id": 3760,
     "title": "Maximum Substrings With Distinct Start",
     "title_slug": "maximum-substrings-with-distinct-start",
