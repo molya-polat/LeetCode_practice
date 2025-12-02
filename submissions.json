@@ -1616,5 +1616,15 @@
       "Prefix Sum",
       "String"
     ]
+  },
+  {
+    "id": 3760,
+    "title": "Maximum Substrings With Distinct Start",
+    "title_slug": "maximum-substrings-with-distinct-start",
+    "difficulty": "Medium",
+    "skills": [
+      "Hash Table",
+      "String"
+    ]
   }
 ]
