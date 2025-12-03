@@ -1586,6 +1586,17 @@
     ]
   },
   {
+    "id": 3746,
+    "title": "Minimum String Length After Balanced Removals",
+    "title_slug": "minimum-string-length-after-balanced-removals",
+    "difficulty": "Medium",
+    "skills": [
+      "Counting",
+      "Stack",
+      "String"
+    ]
+  },
+  {
     "id": 3750,
     "title": "Minimum Number of Flips to Reverse Binary String",
     "title_slug": "minimum-number-of-flips-to-reverse-binary-string",
