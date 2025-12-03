@@ -1574,6 +1574,16 @@
     ]
   },
   {
+    "id": 3740,
+    "title": "Minimum Distance Between Three Equal Elements I",
+    "title_slug": "minimum-distance-between-three-equal-elements-i",
+    "difficulty": "Easy",
+    "skills": [
+      "Array",
+      "Hash Table"
+    ]
+  },
+  {
     "id": 3745,
     "title": "Maximize Expression of Three Elements",
     "title_slug": "maximize-expression-of-three-elements",
