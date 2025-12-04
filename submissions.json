@@ -1584,6 +1584,17 @@
     ]
   },
   {
+    "id": 3742,
+    "title": "Maximum Path Score in a Grid",
+    "title_slug": "maximum-path-score-in-a-grid",
+    "difficulty": "Medium",
+    "skills": [
+      "Array",
+      "Dynamic Programming",
+      "Matrix"
+    ]
+  },
+  {
     "id": 3745,
     "title": "Maximize Expression of Three Elements",
     "title_slug": "maximize-expression-of-three-elements",
