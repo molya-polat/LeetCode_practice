@@ -1595,6 +1595,16 @@
     ]
   },
   {
+    "id": 3741,
+    "title": "Minimum Distance Between Three Equal Elements II",
+    "title_slug": "minimum-distance-between-three-equal-elements-ii",
+    "difficulty": "Medium",
+    "skills": [
+      "Array",
+      "Hash Table"
+    ]
+  },
+  {
     "id": 3742,
     "title": "Maximum Path Score in a Grid",
     "title_slug": "maximum-path-score-in-a-grid",
