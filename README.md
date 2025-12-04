@@ -124,6 +124,7 @@
 | 3560 | [Find Minimum Log Transportation Cost](https://leetcode.com/problems/find-minimum-log-transportation-cost) | Easy | `Math` |
 | 3582 | [Generate Tag for Video Caption](https://leetcode.com/problems/generate-tag-for-video-caption) | Easy | `Simulation` `String` |
 | 3591 | [Check if Any Element Has Prime Frequency](https://leetcode.com/problems/check-if-any-element-has-prime-frequency) | Easy | `Array` `Counting` `Hash Table` `Math` `Number Theory` |
+| 3599 | [Partition Array to Minimize XOR](https://leetcode.com/problems/partition-array-to-minimize-xor) | Medium | `Array` `Bit Manipulation` `Dynamic Programming` `Prefix Sum` |
 | 3602 | [Hexadecimal and Hexatrigesimal Conversion](https://leetcode.com/problems/hexadecimal-and-hexatrigesimal-conversion) | Easy | `Math` `String` |
 | 3603 | [Minimum Cost Path with Alternating Directions II](https://leetcode.com/problems/minimum-cost-path-with-alternating-directions-ii) | Medium | `Array` `Dynamic Programming` `Matrix` |
 | 3606 | [Coupon Code Validator](https://leetcode.com/problems/coupon-code-validator) | Easy | `Array` `Hash Table` `Sorting` `String` |

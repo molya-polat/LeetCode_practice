@@ -1266,6 +1266,18 @@
     ]
   },
   {
+    "id": 3599,
+    "title": "Partition Array to Minimize XOR",
+    "title_slug": "partition-array-to-minimize-xor",
+    "difficulty": "Medium",
+    "skills": [
+      "Array",
+      "Bit Manipulation",
+      "Dynamic Programming",
+      "Prefix Sum"
+    ]
+  },
+  {
     "id": 3602,
     "title": "Hexadecimal and Hexatrigesimal Conversion",
     "title_slug": "hexadecimal-and-hexatrigesimal-conversion",
