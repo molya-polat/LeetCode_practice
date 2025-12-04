@@ -1276,6 +1276,17 @@
     ]
   },
   {
+    "id": 3603,
+    "title": "Minimum Cost Path with Alternating Directions II",
+    "title_slug": "minimum-cost-path-with-alternating-directions-ii",
+    "difficulty": "Medium",
+    "skills": [
+      "Array",
+      "Dynamic Programming",
+      "Matrix"
+    ]
+  },
+  {
     "id": 3606,
     "title": "Coupon Code Validator",
     "title_slug": "coupon-code-validator",

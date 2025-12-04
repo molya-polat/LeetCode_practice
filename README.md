@@ -125,6 +125,7 @@
 | 3582 | [Generate Tag for Video Caption](https://leetcode.com/problems/generate-tag-for-video-caption) | Easy | `Simulation` `String` |
 | 3591 | [Check if Any Element Has Prime Frequency](https://leetcode.com/problems/check-if-any-element-has-prime-frequency) | Easy | `Array` `Counting` `Hash Table` `Math` `Number Theory` |
 | 3602 | [Hexadecimal and Hexatrigesimal Conversion](https://leetcode.com/problems/hexadecimal-and-hexatrigesimal-conversion) | Easy | `Math` `String` |
+| 3603 | [Minimum Cost Path with Alternating Directions II](https://leetcode.com/problems/minimum-cost-path-with-alternating-directions-ii) | Medium | `Array` `Dynamic Programming` `Matrix` |
 | 3606 | [Coupon Code Validator](https://leetcode.com/problems/coupon-code-validator) | Easy | `Array` `Hash Table` `Sorting` `String` |
 | 3622 | [Check Divisibility by Digit Sum and Product](https://leetcode.com/problems/check-divisibility-by-digit-sum-and-product) | Easy | `Math` |
 | 3633 | [Earliest Finish Time for Land and Water Rides I](https://leetcode.com/problems/earliest-finish-time-for-land-and-water-rides-i) | Easy | `Array` `Binary Search` `Greedy` `Sorting` `Two Pointers` |
