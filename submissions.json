@@ -1353,6 +1353,18 @@
     ]
   },
   {
+    "id": 3654,
+    "title": "Minimum Sum After Divisible Sum Deletions",
+    "title_slug": "minimum-sum-after-divisible-sum-deletions",
+    "difficulty": "Medium",
+    "skills": [
+      "Array",
+      "Dynamic Programming",
+      "Hash Table",
+      "Prefix Sum"
+    ]
+  },
+  {
     "id": 3658,
     "title": "GCD of Odd and Even Sums",
     "title_slug": "gcd-of-odd-and-even-sums",
