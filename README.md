@@ -68,6 +68,7 @@
 | 0876 | [Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list) | Easy | `Linked List` `Two Pointers` |
 | 0912 | [Sort an Array](https://leetcode.com/problems/sort-an-array) | Medium | `Array` `Bucket Sort` `Counting Sort` `Divide and Conquer` `Heap (Priority Queue)` `Merge Sort` `Radix Sort` `Sorting` |
 | 1137 | [N-th Tribonacci Number](https://leetcode.com/problems/n-th-tribonacci-number) | Easy | `Dynamic Programming` `Math` `Memoization` |
+| 1277 | [Count Square Submatrices with All Ones](https://leetcode.com/problems/count-square-submatrices-with-all-ones) | Medium | `Array` `Dynamic Programming` `Matrix` |
 | 1282 | [Group the People Given the Group Size They Belong To](https://leetcode.com/problems/group-the-people-given-the-group-size-they-belong-to) | Medium | `Array` `Greedy` `Hash Table` |
 | 1337 | [The K Weakest Rows in a Matrix](https://leetcode.com/problems/the-k-weakest-rows-in-a-matrix) | Easy | `Array` `Binary Search` `Heap (Priority Queue)` `Matrix` `Sorting` |
 | 1342 | [Number of Steps to Reduce a Number to Zero](https://leetcode.com/problems/number-of-steps-to-reduce-a-number-to-zero) | Easy | `Bit Manipulation` `Math` |
