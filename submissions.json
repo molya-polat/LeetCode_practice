@@ -724,6 +724,17 @@
     ]
   },
   {
+    "id": 1641,
+    "title": "Count Sorted Vowel Strings",
+    "title_slug": "count-sorted-vowel-strings",
+    "difficulty": "Medium",
+    "skills": [
+      "Combinatorics",
+      "Dynamic Programming",
+      "Math"
+    ]
+  },
+  {
     "id": 1672,
     "title": "Richest Customer Wealth",
     "title_slug": "richest-customer-wealth",
