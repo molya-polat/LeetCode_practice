@@ -658,6 +658,16 @@
     ]
   },
   {
+    "id": 1043,
+    "title": "Partition Array for Maximum Sum",
+    "title_slug": "partition-array-for-maximum-sum",
+    "difficulty": "Medium",
+    "skills": [
+      "Array",
+      "Dynamic Programming"
+    ]
+  },
+  {
     "id": 1137,
     "title": "N-th Tribonacci Number",
     "title_slug": "n-th-tribonacci-number",
