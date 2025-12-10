@@ -1775,5 +1775,17 @@
       "Bit Manipulation",
       "Two Pointers"
     ]
+  },
+  {
+    "id": 3767,
+    "title": "Maximize Points After Choosing K Tasks",
+    "title_slug": "maximize-points-after-choosing-k-tasks",
+    "difficulty": "Medium",
+    "skills": [
+      "Array",
+      "Greedy",
+      "Heap (Priority Queue)",
+      "Sorting"
+    ]
   }
 ]
