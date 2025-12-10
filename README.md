@@ -170,3 +170,4 @@
 | 3756 | [Concatenate Non-Zero Digits and Multiply by Sum II](https://leetcode.com/problems/concatenate-non-zero-digits-and-multiply-by-sum-ii) | Medium | `Math` `Prefix Sum` `String` |
 | 3759 | [Count Elements With at Least K Greater Values](https://leetcode.com/problems/count-elements-with-at-least-k-greater-values) | Medium | `Array` `Binary Search` `Divide and Conquer` `Quickselect` `Sorting` |
 | 3760 | [Maximum Substrings With Distinct Start](https://leetcode.com/problems/maximum-substrings-with-distinct-start) | Medium | `Hash Table` `String` |
+| 3766 | [Minimum Operations to Make Binary Palindrome](https://leetcode.com/problems/minimum-operations-to-make-binary-palindrome) | Medium | `Array` `Binary Search` `Bit Manipulation` `Two Pointers` |
