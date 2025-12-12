@@ -767,6 +767,16 @@
     ]
   },
   {
+    "id": 1884,
+    "title": "Egg Drop With 2 Eggs and N Floors",
+    "title_slug": "egg-drop-with-2-eggs-and-n-floors",
+    "difficulty": "Medium",
+    "skills": [
+      "Dynamic Programming",
+      "Math"
+    ]
+  },
+  {
     "id": 2221,
     "title": "Find Triangular Sum of an Array",
     "title_slug": "find-triangular-sum-of-an-array",
