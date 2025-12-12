@@ -1787,6 +1787,17 @@
     ]
   },
   {
+    "id": 3761,
+    "title": "Minimum Absolute Distance Between Mirror Pairs",
+    "title_slug": "minimum-absolute-distance-between-mirror-pairs",
+    "difficulty": "Medium",
+    "skills": [
+      "Array",
+      "Hash Table",
+      "Math"
+    ]
+  },
+  {
     "id": 3766,
     "title": "Minimum Operations to Make Binary Palindrome",
     "title_slug": "minimum-operations-to-make-binary-palindrome",
