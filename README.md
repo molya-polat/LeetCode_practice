@@ -66,6 +66,7 @@
 | 0704 | [Binary Search](https://leetcode.com/problems/binary-search) | Easy | `Array` `Binary Search` |
 | 0791 | [Custom Sort String](https://leetcode.com/problems/custom-sort-string) | Medium | `Hash Table` `Sorting` `String` |
 | 0876 | [Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list) | Easy | `Linked List` `Two Pointers` |
+| 0877 | [Stone Game](https://leetcode.com/problems/stone-game) | Medium | `Array` `Dynamic Programming` `Game Theory` `Math` |
 | 0912 | [Sort an Array](https://leetcode.com/problems/sort-an-array) | Medium | `Array` `Bucket Sort` `Counting Sort` `Divide and Conquer` `Heap (Priority Queue)` `Merge Sort` `Radix Sort` `Sorting` |
 | 1043 | [Partition Array for Maximum Sum](https://leetcode.com/problems/partition-array-for-maximum-sum) | Medium | `Array` `Dynamic Programming` |
 | 1137 | [N-th Tribonacci Number](https://leetcode.com/problems/n-th-tribonacci-number) | Easy | `Dynamic Programming` `Math` `Memoization` |

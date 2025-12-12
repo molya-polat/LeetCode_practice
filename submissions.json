@@ -642,6 +642,18 @@
     ]
   },
   {
+    "id": 877,
+    "title": "Stone Game",
+    "title_slug": "stone-game",
+    "difficulty": "Medium",
+    "skills": [
+      "Array",
+      "Dynamic Programming",
+      "Game Theory",
+      "Math"
+    ]
+  },
+  {
     "id": 912,
     "title": "Sort an Array",
     "title_slug": "sort-an-array",
