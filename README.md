@@ -175,5 +175,6 @@
 | 3761 | [Minimum Absolute Distance Between Mirror Pairs](https://leetcode.com/problems/minimum-absolute-distance-between-mirror-pairs) | Medium | `Array` `Hash Table` `Math` |
 | 3766 | [Minimum Operations to Make Binary Palindrome](https://leetcode.com/problems/minimum-operations-to-make-binary-palindrome) | Medium | `Array` `Binary Search` `Bit Manipulation` `Two Pointers` |
 | 3767 | [Maximize Points After Choosing K Tasks](https://leetcode.com/problems/maximize-points-after-choosing-k-tasks) | Medium | `Array` `Greedy` `Heap (Priority Queue)` `Sorting` |
+| 3783 | [Mirror Distance of an Integer](https://leetcode.com/problems/mirror-distance-of-an-integer) | Easy | `Math` |
 | 3794 | [Reverse String Prefix](https://leetcode.com/problems/reverse-string-prefix) | Easy | `String` `Two Pointers` |
 | 3798 | [Largest Even Number](https://leetcode.com/problems/largest-even-number) | Easy | `String` |

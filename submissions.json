@@ -1822,6 +1822,15 @@
     ]
   },
   {
+    "id": 3783,
+    "title": "Mirror Distance of an Integer",
+    "title_slug": "mirror-distance-of-an-integer",
+    "difficulty": "Easy",
+    "skills": [
+      "Math"
+    ]
+  },
+  {
     "id": 3794,
     "title": "Reverse String Prefix",
     "title_slug": "reverse-string-prefix",
