@@ -1820,5 +1820,14 @@
       "Heap (Priority Queue)",
       "Sorting"
     ]
+  },
+  {
+    "id": 3798,
+    "title": "Largest Even Number",
+    "title_slug": "largest-even-number",
+    "difficulty": "Easy",
+    "skills": [
+      "String"
+    ]
   }
 ]
