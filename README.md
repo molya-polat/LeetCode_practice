@@ -78,6 +78,7 @@
 | 1641 | [Count Sorted Vowel Strings](https://leetcode.com/problems/count-sorted-vowel-strings) | Medium | `Combinatorics` `Dynamic Programming` `Math` |
 | 1672 | [Richest Customer Wealth](https://leetcode.com/problems/richest-customer-wealth) | Easy | `Array` `Matrix` |
 | 1884 | [Egg Drop With 2 Eggs and N Floors](https://leetcode.com/problems/egg-drop-with-2-eggs-and-n-floors) | Medium | `Dynamic Programming` `Math` |
+| 1929 | [Concatenation of Array](https://leetcode.com/problems/concatenation-of-array) | Easy | `Array` `Simulation` |
 | 2221 | [Find Triangular Sum of an Array](https://leetcode.com/problems/find-triangular-sum-of-an-array) | Medium | `Array` `Combinatorics` `Math` `Number Theory` `Simulation` |
 | 2294 | [Partition Array Such That Maximum Difference Is K](https://leetcode.com/problems/partition-array-such-that-maximum-difference-is-k) | Medium | `Array` `Greedy` `Sorting` |
 | 2684 | [Maximum Number of Moves in a Grid](https://leetcode.com/problems/maximum-number-of-moves-in-a-grid) | Medium | `Array` `Dynamic Programming` `Matrix` |
