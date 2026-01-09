@@ -609,6 +609,15 @@
     ]
   },
   {
+    "id": 485,
+    "title": "Max Consecutive Ones",
+    "title_slug": "max-consecutive-ones",
+    "difficulty": "Easy",
+    "skills": [
+      "Array"
+    ]
+  },
+  {
     "id": 509,
     "title": "Fibonacci Number",
     "title_slug": "fibonacci-number",
