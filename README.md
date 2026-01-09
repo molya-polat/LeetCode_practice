@@ -45,6 +45,7 @@
 | 0169 | [Majority Element](https://leetcode.com/problems/majority-element) | Easy | `Array` `Counting` `Divide and Conquer` `Hash Table` `Sorting` |
 | 0202 | [Happy Number](https://leetcode.com/problems/happy-number) | Easy | `Hash Table` `Math` `Two Pointers` |
 | 0205 | [Isomorphic Strings](https://leetcode.com/problems/isomorphic-strings) | Easy | `Hash Table` `String` |
+| 0206 | [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list) | Easy | `Linked List` `Recursion` |
 | 0209 | [Minimum Size Subarray Sum](https://leetcode.com/problems/minimum-size-subarray-sum) | Medium | `Array` `Binary Search` `Prefix Sum` `Sliding Window` |
 | 0217 | [Contains Duplicate](https://leetcode.com/problems/contains-duplicate) | Easy | `Array` `Hash Table` `Sorting` |
 | 0219 | [Contains Duplicate II](https://leetcode.com/problems/contains-duplicate-ii) | Easy | `Array` `Hash Table` `Sliding Window` |
