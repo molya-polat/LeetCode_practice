@@ -755,6 +755,16 @@
     ]
   },
   {
+    "id": 1480,
+    "title": "Running Sum of 1d Array",
+    "title_slug": "running-sum-of-1d-array",
+    "difficulty": "Easy",
+    "skills": [
+      "Array",
+      "Prefix Sum"
+    ]
+  },
+  {
     "id": 1491,
     "title": "Average Salary Excluding the Minimum and Maximum Salary",
     "title_slug": "average-salary-excluding-the-minimum-and-maximum-salary",
