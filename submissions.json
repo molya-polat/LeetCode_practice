@@ -810,6 +810,15 @@
     ]
   },
   {
+    "id": 2235,
+    "title": "Add Two Integers",
+    "title_slug": "add-two-integers",
+    "difficulty": "Easy",
+    "skills": [
+      "Math"
+    ]
+  },
+  {
     "id": 2294,
     "title": "Partition Array Such That Maximum Difference Is K",
     "title_slug": "partition-array-such-that-maximum-difference-is-k",
