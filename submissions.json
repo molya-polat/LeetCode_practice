@@ -796,6 +796,16 @@
     ]
   },
   {
+    "id": 1768,
+    "title": "Merge Strings Alternately",
+    "title_slug": "merge-strings-alternately",
+    "difficulty": "Easy",
+    "skills": [
+      "String",
+      "Two Pointers"
+    ]
+  },
+  {
     "id": 1884,
     "title": "Egg Drop With 2 Eggs and N Floors",
     "title_slug": "egg-drop-with-2-eggs-and-n-floors",
