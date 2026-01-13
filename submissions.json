@@ -700,6 +700,17 @@
     ]
   },
   {
+    "id": 977,
+    "title": "Squares of a Sorted Array",
+    "title_slug": "squares-of-a-sorted-array",
+    "difficulty": "Easy",
+    "skills": [
+      "Array",
+      "Sorting",
+      "Two Pointers"
+    ]
+  },
+  {
     "id": 1043,
     "title": "Partition Array for Maximum Sum",
     "title_slug": "partition-array-for-maximum-sum",
