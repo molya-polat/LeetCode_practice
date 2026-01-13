@@ -870,6 +870,13 @@
     ]
   },
   {
+    "id": 2667,
+    "title": "Create Hello World Function",
+    "title_slug": "create-hello-world-function",
+    "difficulty": "Easy",
+    "skills": []
+  },
+  {
     "id": 2684,
     "title": "Maximum Number of Moves in a Grid",
     "title_slug": "maximum-number-of-moves-in-a-grid",
