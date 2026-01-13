@@ -551,6 +551,17 @@
     ]
   },
   {
+    "id": 359,
+    "title": "Logger Rate Limiter",
+    "title_slug": "logger-rate-limiter",
+    "difficulty": "Easy",
+    "skills": [
+      "Data Stream",
+      "Design",
+      "Hash Table"
+    ]
+  },
+  {
     "id": 383,
     "title": "Ransom Note",
     "title_slug": "ransom-note",
