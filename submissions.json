@@ -812,6 +812,17 @@
     ]
   },
   {
+    "id": 1475,
+    "title": "Final Prices With a Special Discount in a Shop",
+    "title_slug": "final-prices-with-a-special-discount-in-a-shop",
+    "difficulty": "Easy",
+    "skills": [
+      "Array",
+      "Monotonic Stack",
+      "Stack"
+    ]
+  },
+  {
     "id": 1480,
     "title": "Running Sum of 1d Array",
     "title_slug": "running-sum-of-1d-array",
