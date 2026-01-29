@@ -145,6 +145,17 @@
     ]
   },
   {
+    "id": 53,
+    "title": "Maximum Subarray",
+    "title_slug": "maximum-subarray",
+    "difficulty": "Medium",
+    "skills": [
+      "Array",
+      "Divide and Conquer",
+      "Dynamic Programming"
+    ]
+  },
+  {
     "id": 55,
     "title": "Jump Game",
     "title_slug": "jump-game",

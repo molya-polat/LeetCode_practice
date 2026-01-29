@@ -20,6 +20,7 @@
 | 0034 | [Find First and Last Position of Element in Sorted Array](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array) | Medium | `Array` `Binary Search` |
 | 0035 | [Search Insert Position](https://leetcode.com/problems/search-insert-position) | Easy | `Array` `Binary Search` |
 | 0046 | [Permutations](https://leetcode.com/problems/permutations) | Medium | `Array` `Backtracking` |
+| 0053 | [Maximum Subarray](https://leetcode.com/problems/maximum-subarray) | Medium | `Array` `Divide and Conquer` `Dynamic Programming` |
 | 0055 | [Jump Game](https://leetcode.com/problems/jump-game) | Medium | `Array` `Dynamic Programming` `Greedy` |
 | 0058 | [Length of Last Word](https://leetcode.com/problems/length-of-last-word) | Easy | `String` |
 | 0063 | [Unique Paths II](https://leetcode.com/problems/unique-paths-ii) | Medium | `Array` `Dynamic Programming` `Matrix` |
