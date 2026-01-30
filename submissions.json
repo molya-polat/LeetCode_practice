@@ -251,6 +251,17 @@
     ]
   },
   {
+    "id": 75,
+    "title": "Sort Colors",
+    "title_slug": "sort-colors",
+    "difficulty": "Medium",
+    "skills": [
+      "Array",
+      "Sorting",
+      "Two Pointers"
+    ]
+  },
+  {
     "id": 76,
     "title": "Minimum Window Substring",
     "title_slug": "minimum-window-substring",
