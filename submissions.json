@@ -833,6 +833,18 @@
     ]
   },
   {
+    "id": 1365,
+    "title": "How Many Numbers Are Smaller Than the Current Number",
+    "title_slug": "how-many-numbers-are-smaller-than-the-current-number",
+    "difficulty": "Easy",
+    "skills": [
+      "Array",
+      "Counting Sort",
+      "Hash Table",
+      "Sorting"
+    ]
+  },
+  {
     "id": 1475,
     "title": "Final Prices With a Special Discount in a Shop",
     "title_slug": "final-prices-with-a-special-discount-in-a-shop",
