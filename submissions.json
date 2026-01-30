@@ -167,6 +167,16 @@
     ]
   },
   {
+    "id": 56,
+    "title": "Merge Intervals",
+    "title_slug": "merge-intervals",
+    "difficulty": "Medium",
+    "skills": [
+      "Array",
+      "Sorting"
+    ]
+  },
+  {
     "id": 58,
     "title": "Length of Last Word",
     "title_slug": "length-of-last-word",
