@@ -197,3 +197,4 @@
 | 3783 | [Mirror Distance of an Integer](https://leetcode.com/problems/mirror-distance-of-an-integer) | Easy | `Math` |
 | 3794 | [Reverse String Prefix](https://leetcode.com/problems/reverse-string-prefix) | Easy | `String` `Two Pointers` |
 | 3798 | [Largest Even Number](https://leetcode.com/problems/largest-even-number) | Easy | `String` |
+| 3803 | [Count Residue Prefixes](https://leetcode.com/problems/count-residue-prefixes) | Easy | `Hash Table` `String` |

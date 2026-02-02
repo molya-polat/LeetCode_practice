@@ -2045,5 +2045,15 @@
     "skills": [
       "String"
     ]
+  },
+  {
+    "id": 3803,
+    "title": "Count Residue Prefixes",
+    "title_slug": "count-residue-prefixes",
+    "difficulty": "Easy",
+    "skills": [
+      "Hash Table",
+      "String"
+    ]
   }
 ]
