@@ -829,6 +829,16 @@
     ]
   },
   {
+    "id": 1200,
+    "title": "Minimum Absolute Difference",
+    "title_slug": "minimum-absolute-difference",
+    "difficulty": "Easy",
+    "skills": [
+      "Array",
+      "Sorting"
+    ]
+  },
+  {
     "id": 1277,
     "title": "Count Square Submatrices with All Ones",
     "title_slug": "count-square-submatrices-with-all-ones",
