@@ -39,6 +39,7 @@
 | 0120 | [Triangle](https://leetcode.com/problems/triangle) | Medium | `Array` `Dynamic Programming` |
 | 0122 | [Best Time to Buy and Sell Stock II](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii) | Medium | `Array` `Dynamic Programming` `Greedy` |
 | 0125 | [Valid Palindrome](https://leetcode.com/problems/valid-palindrome) | Easy | `String` `Two Pointers` |
+| 0131 | [Palindrome Partitioning](https://leetcode.com/problems/palindrome-partitioning) | Medium | `Backtracking` `Dynamic Programming` `String` |
 | 0134 | [Gas Station](https://leetcode.com/problems/gas-station) | Medium | `Array` `Greedy` |
 | 0136 | [Single Number](https://leetcode.com/problems/single-number) | Easy | `Array` `Bit Manipulation` |
 | 0139 | [Word Break](https://leetcode.com/problems/word-break) | Medium | `Array` `Dynamic Programming` `Hash Table` `Memoization` `String` `Trie` |

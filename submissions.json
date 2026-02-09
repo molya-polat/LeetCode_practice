@@ -344,6 +344,17 @@
     ]
   },
   {
+    "id": 131,
+    "title": "Palindrome Partitioning",
+    "title_slug": "palindrome-partitioning",
+    "difficulty": "Medium",
+    "skills": [
+      "Backtracking",
+      "Dynamic Programming",
+      "String"
+    ]
+  },
+  {
     "id": 134,
     "title": "Gas Station",
     "title_slug": "gas-station",
