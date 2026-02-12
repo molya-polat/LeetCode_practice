@@ -745,6 +745,17 @@
     ]
   },
   {
+    "id": 424,
+    "title": "Longest Repeating Character Replacement",
+    "title_slug": "longest-repeating-character-replacement",
+    "difficulty": "Medium",
+    "skills": [
+      "Hash Table",
+      "Sliding Window",
+      "String"
+    ]
+  },
+  {
     "id": 447,
     "title": "Number of Boomerangs",
     "title_slug": "number-of-boomerangs",
