@@ -91,6 +91,7 @@
 | 0877 | [Stone Game](https://leetcode.com/problems/stone-game) | Medium | `Array` `Dynamic Programming` `Game Theory` `Math` |
 | 0912 | [Sort an Array](https://leetcode.com/problems/sort-an-array) | Medium | `Array` `Bucket Sort` `Counting Sort` `Divide and Conquer` `Heap (Priority Queue)` `Merge Sort` `Radix Sort` `Sorting` |
 | 0977 | [Squares of a Sorted Array](https://leetcode.com/problems/squares-of-a-sorted-array) | Easy | `Array` `Sorting` `Two Pointers` |
+| 0994 | [Rotting Oranges](https://leetcode.com/problems/rotting-oranges) | Medium | `Array` `Breadth-First Search` `Matrix` |
 | 1043 | [Partition Array for Maximum Sum](https://leetcode.com/problems/partition-array-for-maximum-sum) | Medium | `Array` `Dynamic Programming` |
 | 1137 | [N-th Tribonacci Number](https://leetcode.com/problems/n-th-tribonacci-number) | Easy | `Dynamic Programming` `Math` `Memoization` |
 | 1200 | [Minimum Absolute Difference](https://leetcode.com/problems/minimum-absolute-difference) | Easy | `Array` `Sorting` |

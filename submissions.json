@@ -927,6 +927,17 @@
     ]
   },
   {
+    "id": 994,
+    "title": "Rotting Oranges",
+    "title_slug": "rotting-oranges",
+    "difficulty": "Medium",
+    "skills": [
+      "Array",
+      "Breadth-First Search",
+      "Matrix"
+    ]
+  },
+  {
     "id": 1043,
     "title": "Partition Array for Maximum Sum",
     "title_slug": "partition-array-for-maximum-sum",
