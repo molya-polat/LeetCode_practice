@@ -12,6 +12,7 @@
 | 0012 | [Integer to Roman](https://leetcode.com/problems/integer-to-roman) | Medium | `Hash Table` `Math` `String` |
 | 0013 | [Roman to Integer](https://leetcode.com/problems/roman-to-integer) | Easy | `Hash Table` `Math` `String` |
 | 0015 | [3Sum](https://leetcode.com/problems/3sum) | Medium | `Array` `Sorting` `Two Pointers` |
+| 0020 | [Valid Parentheses](https://leetcode.com/problems/valid-parentheses) | Easy | `Stack` `String` |
 | 0022 | [Generate Parentheses](https://leetcode.com/problems/generate-parentheses) | Medium | `Backtracking` `Dynamic Programming` `String` |
 | 0026 | [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array) | Easy | `Array` `Two Pointers` |
 | 0027 | [Remove Element](https://leetcode.com/problems/remove-element) | Easy | `Array` `Two Pointers` |
