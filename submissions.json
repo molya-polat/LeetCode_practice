@@ -630,6 +630,18 @@
     ]
   },
   {
+    "id": 226,
+    "title": "Invert Binary Tree",
+    "title_slug": "invert-binary-tree",
+    "difficulty": "Easy",
+    "skills": [
+      "Binary Tree",
+      "Breadth-First Search",
+      "Depth-First Search",
+      "Tree"
+    ]
+  },
+  {
     "id": 228,
     "title": "Summary Ranges",
     "title_slug": "summary-ranges",
