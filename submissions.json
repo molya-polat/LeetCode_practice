@@ -272,6 +272,16 @@
     ]
   },
   {
+    "id": 72,
+    "title": "Edit Distance",
+    "title_slug": "edit-distance",
+    "difficulty": "Medium",
+    "skills": [
+      "Dynamic Programming",
+      "String"
+    ]
+  },
+  {
     "id": 74,
     "title": "Search a 2D Matrix",
     "title_slug": "search-a-2d-matrix",

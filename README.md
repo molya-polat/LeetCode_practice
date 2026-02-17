@@ -32,6 +32,7 @@
 | 0067 | [Add Binary](https://leetcode.com/problems/add-binary) | Easy | `Bit Manipulation` `Math` `Simulation` `String` |
 | 0069 | [Sqrt(x)](https://leetcode.com/problems/sqrtx) | Easy | `Binary Search` `Math` |
 | 0070 | [Climbing Stairs](https://leetcode.com/problems/climbing-stairs) | Easy | `Dynamic Programming` `Math` `Memoization` |
+| 0072 | [Edit Distance](https://leetcode.com/problems/edit-distance) | Medium | `Dynamic Programming` `String` |
 | 0074 | [Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix) | Medium | `Array` `Binary Search` `Matrix` |
 | 0075 | [Sort Colors](https://leetcode.com/problems/sort-colors) | Medium | `Array` `Sorting` `Two Pointers` |
 | 0076 | [Minimum Window Substring](https://leetcode.com/problems/minimum-window-substring) | Hard | `Hash Table` `Sliding Window` `String` |
