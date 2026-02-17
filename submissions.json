@@ -901,6 +901,22 @@
     ]
   },
   {
+    "id": 692,
+    "title": "Top K Frequent Words",
+    "title_slug": "top-k-frequent-words",
+    "difficulty": "Medium",
+    "skills": [
+      "Array",
+      "Bucket Sort",
+      "Counting",
+      "Hash Table",
+      "Heap (Priority Queue)",
+      "Sorting",
+      "String",
+      "Trie"
+    ]
+  },
+  {
     "id": 704,
     "title": "Binary Search",
     "title_slug": "binary-search",

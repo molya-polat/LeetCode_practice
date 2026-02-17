@@ -89,6 +89,7 @@
 | 0485 | [Max Consecutive Ones](https://leetcode.com/problems/max-consecutive-ones) | Easy | `Array` |
 | 0496 | [Next Greater Element I](https://leetcode.com/problems/next-greater-element-i) | Easy | `Array` `Hash Table` `Monotonic Stack` `Stack` |
 | 0509 | [Fibonacci Number](https://leetcode.com/problems/fibonacci-number) | Easy | `Dynamic Programming` `Math` `Memoization` `Recursion` |
+| 0692 | [Top K Frequent Words](https://leetcode.com/problems/top-k-frequent-words) | Medium | `Array` `Bucket Sort` `Counting` `Hash Table` `Heap (Priority Queue)` `Sorting` `String` `Trie` |
 | 0704 | [Binary Search](https://leetcode.com/problems/binary-search) | Easy | `Array` `Binary Search` |
 | 0791 | [Custom Sort String](https://leetcode.com/problems/custom-sort-string) | Medium | `Hash Table` `Sorting` `String` |
 | 0796 | [Rotate String](https://leetcode.com/problems/rotate-string) | Easy | `String` `String Matching` |
