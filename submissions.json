@@ -683,6 +683,18 @@
     ]
   },
   {
+    "id": 261,
+    "title": "Graph Valid Tree",
+    "title_slug": "graph-valid-tree",
+    "difficulty": "Medium",
+    "skills": [
+      "Breadth-First Search",
+      "Depth-First Search",
+      "Graph Theory",
+      "Union-Find"
+    ]
+  },
+  {
     "id": 263,
     "title": "Ugly Number",
     "title_slug": "ugly-number",

@@ -70,6 +70,7 @@
 | 0234 | [Palindrome Linked List](https://leetcode.com/problems/palindrome-linked-list) | Easy | `Linked List` `Recursion` `Stack` `Two Pointers` |
 | 0238 | [Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self) | Medium | `Array` `Prefix Sum` |
 | 0242 | [Valid Anagram](https://leetcode.com/problems/valid-anagram) | Easy | `Hash Table` `Sorting` `String` |
+| 0261 | [Graph Valid Tree](https://leetcode.com/problems/graph-valid-tree) | Medium | `Breadth-First Search` `Depth-First Search` `Graph Theory` `Union-Find` |
 | 0263 | [Ugly Number](https://leetcode.com/problems/ugly-number) | Easy | `Math` |
 | 0268 | [Missing Number](https://leetcode.com/problems/missing-number) | Easy | `Array` `Binary Search` `Bit Manipulation` `Hash Table` `Math` `Sorting` |
 | 0290 | [Word Pattern](https://leetcode.com/problems/word-pattern) | Easy | `Hash Table` `String` |
