@@ -46,6 +46,7 @@
 | 0125 | [Valid Palindrome](https://leetcode.com/problems/valid-palindrome) | Easy | `String` `Two Pointers` |
 | 0128 | [Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence) | Medium | `Array` `Hash Table` `Union-Find` |
 | 0131 | [Palindrome Partitioning](https://leetcode.com/problems/palindrome-partitioning) | Medium | `Backtracking` `Dynamic Programming` `String` |
+| 0133 | [Clone Graph](https://leetcode.com/problems/clone-graph) | Medium | `Breadth-First Search` `Depth-First Search` `Graph Theory` `Hash Table` |
 | 0134 | [Gas Station](https://leetcode.com/problems/gas-station) | Medium | `Array` `Greedy` |
 | 0136 | [Single Number](https://leetcode.com/problems/single-number) | Easy | `Array` `Bit Manipulation` |
 | 0139 | [Word Break](https://leetcode.com/problems/word-break) | Medium | `Array` `Dynamic Programming` `Hash Table` `Memoization` `String` `Trie` |
