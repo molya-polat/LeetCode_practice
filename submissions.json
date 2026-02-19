@@ -345,6 +345,18 @@
     ]
   },
   {
+    "id": 98,
+    "title": "Validate Binary Search Tree",
+    "title_slug": "validate-binary-search-tree",
+    "difficulty": "Medium",
+    "skills": [
+      "Binary Search Tree",
+      "Binary Tree",
+      "Depth-First Search",
+      "Tree"
+    ]
+  },
+  {
     "id": 104,
     "title": "Maximum Depth of Binary Tree",
     "title_slug": "maximum-depth-of-binary-tree",
