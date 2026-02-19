@@ -808,6 +808,17 @@
     ]
   },
   {
+    "id": 322,
+    "title": "Coin Change",
+    "title_slug": "coin-change",
+    "difficulty": "Medium",
+    "skills": [
+      "Array",
+      "Breadth-First Search",
+      "Dynamic Programming"
+    ]
+  },
+  {
     "id": 324,
     "title": "Wiggle Sort II",
     "title_slug": "wiggle-sort-ii",
