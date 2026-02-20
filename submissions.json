@@ -357,6 +357,18 @@
     ]
   },
   {
+    "id": 99,
+    "title": "Recover Binary Search Tree",
+    "title_slug": "recover-binary-search-tree",
+    "difficulty": "Medium",
+    "skills": [
+      "Binary Search Tree",
+      "Binary Tree",
+      "Depth-First Search",
+      "Tree"
+    ]
+  },
+  {
     "id": 104,
     "title": "Maximum Depth of Binary Tree",
     "title_slug": "maximum-depth-of-binary-tree",
