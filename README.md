@@ -82,6 +82,7 @@
 | 0263 | [Ugly Number](https://leetcode.com/problems/ugly-number) | Easy | `Math` |
 | 0268 | [Missing Number](https://leetcode.com/problems/missing-number) | Easy | `Array` `Binary Search` `Bit Manipulation` `Hash Table` `Math` `Sorting` |
 | 0290 | [Word Pattern](https://leetcode.com/problems/word-pattern) | Easy | `Hash Table` `String` |
+| 0300 | [Longest Increasing Subsequence](https://leetcode.com/problems/longest-increasing-subsequence) | Medium | `Array` `Binary Search` `Dynamic Programming` |
 | 0309 | [Best Time to Buy and Sell Stock with Cooldown](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-cooldown) | Medium | `Array` `Dynamic Programming` |
 | 0322 | [Coin Change](https://leetcode.com/problems/coin-change) | Medium | `Array` `Breadth-First Search` `Dynamic Programming` |
 | 0324 | [Wiggle Sort II](https://leetcode.com/problems/wiggle-sort-ii) | Medium | `Array` `Divide and Conquer` `Greedy` `Quickselect` `Sorting` |
