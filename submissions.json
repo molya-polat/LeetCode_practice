@@ -776,6 +776,17 @@
     ]
   },
   {
+    "id": 249,
+    "title": "Group Shifted Strings",
+    "title_slug": "group-shifted-strings",
+    "difficulty": "Medium",
+    "skills": [
+      "Array",
+      "Hash Table",
+      "String"
+    ]
+  },
+  {
     "id": 261,
     "title": "Graph Valid Tree",
     "title_slug": "graph-valid-tree",
