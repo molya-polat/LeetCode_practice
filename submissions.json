@@ -1164,6 +1164,18 @@
     ]
   },
   {
+    "id": 684,
+    "title": "Redundant Connection",
+    "title_slug": "redundant-connection",
+    "difficulty": "Medium",
+    "skills": [
+      "Breadth-First Search",
+      "Depth-First Search",
+      "Graph Theory",
+      "Union-Find"
+    ]
+  },
+  {
     "id": 692,
     "title": "Top K Frequent Words",
     "title_slug": "top-k-frequent-words",
