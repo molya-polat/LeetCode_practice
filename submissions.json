@@ -1264,6 +1264,18 @@
     ]
   },
   {
+    "id": 853,
+    "title": "Car Fleet",
+    "title_slug": "car-fleet",
+    "difficulty": "Medium",
+    "skills": [
+      "Array",
+      "Monotonic Stack",
+      "Sorting",
+      "Stack"
+    ]
+  },
+  {
     "id": 875,
     "title": "Koko Eating Bananas",
     "title_slug": "koko-eating-bananas",
