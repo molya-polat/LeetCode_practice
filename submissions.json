@@ -1560,6 +1560,17 @@
     ]
   },
   {
+    "id": 1824,
+    "title": "Minimum Sideway Jumps",
+    "title_slug": "minimum-sideway-jumps",
+    "difficulty": "Medium",
+    "skills": [
+      "Array",
+      "Dynamic Programming",
+      "Greedy"
+    ]
+  },
+  {
     "id": 1884,
     "title": "Egg Drop With 2 Eggs and N Floors",
     "title_slug": "egg-drop-with-2-eggs-and-n-floors",
