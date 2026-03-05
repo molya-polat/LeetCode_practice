@@ -46,6 +46,7 @@
 | 0080 | [Remove Duplicates from Sorted Array II](https://leetcode.com/problems/remove-duplicates-from-sorted-array-ii) | Medium | `Array` `Two Pointers` |
 | 0083 | [Remove Duplicates from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list) | Easy | `Linked List` |
 | 0088 | [Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array) | Easy | `Array` `Sorting` `Two Pointers` |
+| 0091 | [Decode Ways](https://leetcode.com/problems/decode-ways) | Medium | `Dynamic Programming` `String` |
 | 0098 | [Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree) | Medium | `Binary Search Tree` `Binary Tree` `Depth-First Search` `Tree` |
 | 0099 | [Recover Binary Search Tree](https://leetcode.com/problems/recover-binary-search-tree) | Medium | `Binary Search Tree` `Binary Tree` `Depth-First Search` `Tree` |
 | 0104 | [Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree) | Easy | `Binary Tree` `Breadth-First Search` `Depth-First Search` `Tree` |
