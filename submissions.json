@@ -1212,6 +1212,18 @@
     ]
   },
   {
+    "id": 567,
+    "title": "Permutation in String",
+    "title_slug": "permutation-in-string",
+    "difficulty": "Medium",
+    "skills": [
+      "Hash Table",
+      "Sliding Window",
+      "String",
+      "Two Pointers"
+    ]
+  },
+  {
     "id": 572,
     "title": "Subtree of Another Tree",
     "title_slug": "subtree-of-another-tree",
