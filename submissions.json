@@ -905,6 +905,20 @@
     ]
   },
   {
+    "id": 253,
+    "title": "Meeting Rooms II",
+    "title_slug": "meeting-rooms-ii",
+    "difficulty": "Medium",
+    "skills": [
+      "Array",
+      "Greedy",
+      "Heap (Priority Queue)",
+      "Prefix Sum",
+      "Sorting",
+      "Two Pointers"
+    ]
+  },
+  {
     "id": 261,
     "title": "Graph Valid Tree",
     "title_slug": "graph-valid-tree",
