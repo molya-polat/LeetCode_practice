@@ -104,6 +104,7 @@
 | 0359 | [Logger Rate Limiter](https://leetcode.com/problems/logger-rate-limiter) | Easy | `Data Stream` `Design` `Hash Table` |
 | 0383 | [Ransom Note](https://leetcode.com/problems/ransom-note) | Easy | `Counting` `Hash Table` `String` |
 | 0392 | [Is Subsequence](https://leetcode.com/problems/is-subsequence) | Easy | `Dynamic Programming` `String` `Two Pointers` |
+| 0394 | [Decode String](https://leetcode.com/problems/decode-string) | Medium | `Recursion` `Stack` `String` |
 | 0412 | [Fizz Buzz](https://leetcode.com/problems/fizz-buzz) | Easy | `Math` `Simulation` `String` |
 | 0417 | [Pacific Atlantic Water Flow](https://leetcode.com/problems/pacific-atlantic-water-flow) | Medium | `Array` `Breadth-First Search` `Depth-First Search` `Matrix` |
 | 0424 | [Longest Repeating Character Replacement](https://leetcode.com/problems/longest-repeating-character-replacement) | Medium | `Hash Table` `Sliding Window` `String` |
