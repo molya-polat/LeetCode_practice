@@ -1315,6 +1315,20 @@
     ]
   },
   {
+    "id": 718,
+    "title": "Maximum Length of Repeated Subarray",
+    "title_slug": "maximum-length-of-repeated-subarray",
+    "difficulty": "Medium",
+    "skills": [
+      "Array",
+      "Binary Search",
+      "Dynamic Programming",
+      "Hash Function",
+      "Rolling Hash",
+      "Sliding Window"
+    ]
+  },
+  {
     "id": 739,
     "title": "Daily Temperatures",
     "title_slug": "daily-temperatures",
