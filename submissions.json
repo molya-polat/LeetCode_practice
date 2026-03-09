@@ -1314,6 +1314,18 @@
     ]
   },
   {
+    "id": 752,
+    "title": "Open the Lock",
+    "title_slug": "open-the-lock",
+    "difficulty": "Medium",
+    "skills": [
+      "Array",
+      "Breadth-First Search",
+      "Hash Table",
+      "String"
+    ]
+  },
+  {
     "id": 791,
     "title": "Custom Sort String",
     "title_slug": "custom-sort-string",
