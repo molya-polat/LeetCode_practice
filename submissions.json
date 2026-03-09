@@ -1102,6 +1102,18 @@
     ]
   },
   {
+    "id": 402,
+    "title": "Remove K Digits",
+    "title_slug": "remove-k-digits",
+    "difficulty": "Medium",
+    "skills": [
+      "Greedy",
+      "Monotonic Stack",
+      "Stack",
+      "String"
+    ]
+  },
+  {
     "id": 412,
     "title": "Fizz Buzz",
     "title_slug": "fizz-buzz",
