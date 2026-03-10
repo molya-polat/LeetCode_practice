@@ -1470,6 +1470,20 @@
     ]
   },
   {
+    "id": 987,
+    "title": "Vertical Order Traversal of a Binary Tree",
+    "title_slug": "vertical-order-traversal-of-a-binary-tree",
+    "difficulty": "Hard",
+    "skills": [
+      "Binary Tree",
+      "Breadth-First Search",
+      "Depth-First Search",
+      "Hash Table",
+      "Sorting",
+      "Tree"
+    ]
+  },
+  {
     "id": 994,
     "title": "Rotting Oranges",
     "title_slug": "rotting-oranges",
