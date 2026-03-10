@@ -111,6 +111,7 @@
 | 0412 | [Fizz Buzz](https://leetcode.com/problems/fizz-buzz) | Easy | `Math` `Simulation` `String` |
 | 0417 | [Pacific Atlantic Water Flow](https://leetcode.com/problems/pacific-atlantic-water-flow) | Medium | `Array` `Breadth-First Search` `Depth-First Search` `Matrix` |
 | 0424 | [Longest Repeating Character Replacement](https://leetcode.com/problems/longest-repeating-character-replacement) | Medium | `Hash Table` `Sliding Window` `String` |
+| 0437 | [Path Sum III](https://leetcode.com/problems/path-sum-iii) | Medium | `Binary Tree` `Depth-First Search` `Tree` |
 | 0438 | [Find All Anagrams in a String](https://leetcode.com/problems/find-all-anagrams-in-a-string) | Medium | `Hash Table` `Sliding Window` `String` |
 | 0447 | [Number of Boomerangs](https://leetcode.com/problems/number-of-boomerangs) | Medium | `Array` `Hash Table` `Math` |
 | 0448 | [Find All Numbers Disappeared in an Array](https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array) | Easy | `Array` `Hash Table` |
