@@ -131,6 +131,7 @@
 | 0721 | [Accounts Merge](https://leetcode.com/problems/accounts-merge) | Medium | `Array` `Breadth-First Search` `Depth-First Search` `Hash Table` `Sorting` `String` `Union-Find` |
 | 0739 | [Daily Temperatures](https://leetcode.com/problems/daily-temperatures) | Medium | `Array` `Monotonic Stack` `Stack` |
 | 0752 | [Open the Lock](https://leetcode.com/problems/open-the-lock) | Medium | `Array` `Breadth-First Search` `Hash Table` `String` |
+| 0767 | [Reorganize String](https://leetcode.com/problems/reorganize-string) | Medium | `Counting` `Greedy` `Hash Table` `Heap (Priority Queue)` `Sorting` `String` |
 | 0791 | [Custom Sort String](https://leetcode.com/problems/custom-sort-string) | Medium | `Hash Table` `Sorting` `String` |
 | 0796 | [Rotate String](https://leetcode.com/problems/rotate-string) | Easy | `String` `String Matching` |
 | 0853 | [Car Fleet](https://leetcode.com/problems/car-fleet) | Medium | `Array` `Monotonic Stack` `Sorting` `Stack` |

@@ -1389,6 +1389,20 @@
     ]
   },
   {
+    "id": 767,
+    "title": "Reorganize String",
+    "title_slug": "reorganize-string",
+    "difficulty": "Medium",
+    "skills": [
+      "Counting",
+      "Greedy",
+      "Hash Table",
+      "Heap (Priority Queue)",
+      "Sorting",
+      "String"
+    ]
+  },
+  {
     "id": 791,
     "title": "Custom Sort String",
     "title_slug": "custom-sort-string",
