@@ -126,6 +126,7 @@
 | 0692 | [Top K Frequent Words](https://leetcode.com/problems/top-k-frequent-words) | Medium | `Array` `Bucket Sort` `Counting` `Hash Table` `Heap (Priority Queue)` `Sorting` `String` `Trie` |
 | 0704 | [Binary Search](https://leetcode.com/problems/binary-search) | Easy | `Array` `Binary Search` |
 | 0718 | [Maximum Length of Repeated Subarray](https://leetcode.com/problems/maximum-length-of-repeated-subarray) | Medium | `Array` `Binary Search` `Dynamic Programming` `Hash Function` `Rolling Hash` `Sliding Window` |
+| 0721 | [Accounts Merge](https://leetcode.com/problems/accounts-merge) | Medium | `Array` `Breadth-First Search` `Depth-First Search` `Hash Table` `Sorting` `String` `Union-Find` |
 | 0739 | [Daily Temperatures](https://leetcode.com/problems/daily-temperatures) | Medium | `Array` `Monotonic Stack` `Stack` |
 | 0752 | [Open the Lock](https://leetcode.com/problems/open-the-lock) | Medium | `Array` `Breadth-First Search` `Hash Table` `String` |
 | 0791 | [Custom Sort String](https://leetcode.com/problems/custom-sort-string) | Medium | `Hash Table` `Sorting` `String` |
