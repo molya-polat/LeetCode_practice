@@ -1401,6 +1401,18 @@
     ]
   },
   {
+    "id": 763,
+    "title": "Partition Labels",
+    "title_slug": "partition-labels",
+    "difficulty": "Medium",
+    "skills": [
+      "Greedy",
+      "Hash Table",
+      "String",
+      "Two Pointers"
+    ]
+  },
+  {
     "id": 767,
     "title": "Reorganize String",
     "title_slug": "reorganize-string",
