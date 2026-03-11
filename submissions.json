@@ -1506,6 +1506,17 @@
     ]
   },
   {
+    "id": 986,
+    "title": "Interval List Intersections",
+    "title_slug": "interval-list-intersections",
+    "difficulty": "Medium",
+    "skills": [
+      "Array",
+      "Sweep Line",
+      "Two Pointers"
+    ]
+  },
+  {
     "id": 987,
     "title": "Vertical Order Traversal of a Binary Tree",
     "title_slug": "vertical-order-traversal-of-a-binary-tree",
