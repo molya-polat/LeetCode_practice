@@ -148,6 +148,7 @@
 | 0987 | [Vertical Order Traversal of a Binary Tree](https://leetcode.com/problems/vertical-order-traversal-of-a-binary-tree) | Hard | `Binary Tree` `Breadth-First Search` `Depth-First Search` `Hash Table` `Sorting` `Tree` |
 | 0994 | [Rotting Oranges](https://leetcode.com/problems/rotting-oranges) | Medium | `Array` `Breadth-First Search` `Matrix` |
 | 1043 | [Partition Array for Maximum Sum](https://leetcode.com/problems/partition-array-for-maximum-sum) | Medium | `Array` `Dynamic Programming` |
+| 1091 | [Shortest Path in Binary Matrix](https://leetcode.com/problems/shortest-path-in-binary-matrix) | Medium | `Array` `Breadth-First Search` `Matrix` |
 | 1137 | [N-th Tribonacci Number](https://leetcode.com/problems/n-th-tribonacci-number) | Easy | `Dynamic Programming` `Math` `Memoization` |
 | 1200 | [Minimum Absolute Difference](https://leetcode.com/problems/minimum-absolute-difference) | Easy | `Array` `Sorting` |
 | 1249 | [Minimum Remove to Make Valid Parentheses](https://leetcode.com/problems/minimum-remove-to-make-valid-parentheses) | Medium | `Stack` `String` |
