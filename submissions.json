@@ -964,6 +964,17 @@
     ]
   },
   {
+    "id": 286,
+    "title": "Walls and Gates",
+    "title_slug": "walls-and-gates",
+    "difficulty": "Medium",
+    "skills": [
+      "Array",
+      "Breadth-First Search",
+      "Matrix"
+    ]
+  },
+  {
     "id": 290,
     "title": "Word Pattern",
     "title_slug": "word-pattern",
