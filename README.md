@@ -112,6 +112,7 @@
 | 0383 | [Ransom Note](https://leetcode.com/problems/ransom-note) | Easy | `Counting` `Hash Table` `String` |
 | 0392 | [Is Subsequence](https://leetcode.com/problems/is-subsequence) | Easy | `Dynamic Programming` `String` `Two Pointers` |
 | 0394 | [Decode String](https://leetcode.com/problems/decode-string) | Medium | `Recursion` `Stack` `String` |
+| 0399 | [Evaluate Division](https://leetcode.com/problems/evaluate-division) | Medium | `Array` `Breadth-First Search` `Depth-First Search` `Graph Theory` `Shortest Path` `String` `Union-Find` |
 | 0402 | [Remove K Digits](https://leetcode.com/problems/remove-k-digits) | Medium | `Greedy` `Monotonic Stack` `Stack` `String` |
 | 0412 | [Fizz Buzz](https://leetcode.com/problems/fizz-buzz) | Easy | `Math` `Simulation` `String` |
 | 0417 | [Pacific Atlantic Water Flow](https://leetcode.com/problems/pacific-atlantic-water-flow) | Medium | `Array` `Breadth-First Search` `Depth-First Search` `Matrix` |
