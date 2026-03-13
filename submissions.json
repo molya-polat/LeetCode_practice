@@ -1367,6 +1367,20 @@
     ]
   },
   {
+    "id": 658,
+    "title": "Find K Closest Elements",
+    "title_slug": "find-k-closest-elements",
+    "difficulty": "Medium",
+    "skills": [
+      "Array",
+      "Binary Search",
+      "Heap (Priority Queue)",
+      "Sliding Window",
+      "Sorting",
+      "Two Pointers"
+    ]
+  },
+  {
     "id": 684,
     "title": "Redundant Connection",
     "title_slug": "redundant-connection",

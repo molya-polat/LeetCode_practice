@@ -130,6 +130,7 @@
 | 0567 | [Permutation in String](https://leetcode.com/problems/permutation-in-string) | Medium | `Hash Table` `Sliding Window` `String` `Two Pointers` |
 | 0572 | [Subtree of Another Tree](https://leetcode.com/problems/subtree-of-another-tree) | Easy | `Binary Tree` `Depth-First Search` `Hash Function` `String Matching` `Tree` |
 | 0621 | [Task Scheduler](https://leetcode.com/problems/task-scheduler) | Medium | `Array` `Counting` `Greedy` `Hash Table` `Heap (Priority Queue)` `Sorting` |
+| 0658 | [Find K Closest Elements](https://leetcode.com/problems/find-k-closest-elements) | Medium | `Array` `Binary Search` `Heap (Priority Queue)` `Sliding Window` `Sorting` `Two Pointers` |
 | 0684 | [Redundant Connection](https://leetcode.com/problems/redundant-connection) | Medium | `Breadth-First Search` `Depth-First Search` `Graph Theory` `Union-Find` |
 | 0692 | [Top K Frequent Words](https://leetcode.com/problems/top-k-frequent-words) | Medium | `Array` `Bucket Sort` `Counting` `Hash Table` `Heap (Priority Queue)` `Sorting` `String` `Trie` |
 | 0704 | [Binary Search](https://leetcode.com/problems/binary-search) | Easy | `Array` `Binary Search` |
