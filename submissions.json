@@ -1434,6 +1434,17 @@
     ]
   },
   {
+    "id": 735,
+    "title": "Asteroid Collision",
+    "title_slug": "asteroid-collision",
+    "difficulty": "Medium",
+    "skills": [
+      "Array",
+      "Simulation",
+      "Stack"
+    ]
+  },
+  {
     "id": 739,
     "title": "Daily Temperatures",
     "title_slug": "daily-temperatures",
