@@ -108,6 +108,7 @@
 | 0347 | [Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements) | Medium | `Array` `Bucket Sort` `Counting` `Divide and Conquer` `Hash Table` `Heap (Priority Queue)` `Quickselect` `Sorting` |
 | 0349 | [Intersection of Two Arrays](https://leetcode.com/problems/intersection-of-two-arrays) | Easy | `Array` `Binary Search` `Hash Table` `Sorting` `Two Pointers` |
 | 0359 | [Logger Rate Limiter](https://leetcode.com/problems/logger-rate-limiter) | Easy | `Data Stream` `Design` `Hash Table` |
+| 0380 | [Insert Delete GetRandom O(1)](https://leetcode.com/problems/insert-delete-getrandom-o1) | Medium | `Array` `Design` `Hash Table` `Math` `Randomized` |
 | 0383 | [Ransom Note](https://leetcode.com/problems/ransom-note) | Easy | `Counting` `Hash Table` `String` |
 | 0392 | [Is Subsequence](https://leetcode.com/problems/is-subsequence) | Easy | `Dynamic Programming` `String` `Two Pointers` |
 | 0394 | [Decode String](https://leetcode.com/problems/decode-string) | Medium | `Recursion` `Stack` `String` |
