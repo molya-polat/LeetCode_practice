@@ -827,6 +827,17 @@
     ]
   },
   {
+    "id": 227,
+    "title": "Basic Calculator II",
+    "title_slug": "basic-calculator-ii",
+    "difficulty": "Medium",
+    "skills": [
+      "Math",
+      "Stack",
+      "String"
+    ]
+  },
+  {
     "id": 228,
     "title": "Summary Ranges",
     "title_slug": "summary-ranges",
