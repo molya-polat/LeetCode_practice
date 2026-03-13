@@ -1051,6 +1051,17 @@
     ]
   },
   {
+    "id": 325,
+    "title": "Maximum Size Subarray Sum Equals k",
+    "title_slug": "maximum-size-subarray-sum-equals-k",
+    "difficulty": "Medium",
+    "skills": [
+      "Array",
+      "Hash Table",
+      "Prefix Sum"
+    ]
+  },
+  {
     "id": 344,
     "title": "Reverse String",
     "title_slug": "reverse-string",
