@@ -273,6 +273,15 @@
     ]
   },
   {
+    "id": 57,
+    "title": "Insert Interval",
+    "title_slug": "insert-interval",
+    "difficulty": "Medium",
+    "skills": [
+      "Array"
+    ]
+  },
+  {
     "id": 58,
     "title": "Length of Last Word",
     "title_slug": "length-of-last-word",

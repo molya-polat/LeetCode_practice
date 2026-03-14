@@ -32,6 +32,7 @@
 | 0053 | [Maximum Subarray](https://leetcode.com/problems/maximum-subarray) | Medium | `Array` `Divide and Conquer` `Dynamic Programming` |
 | 0055 | [Jump Game](https://leetcode.com/problems/jump-game) | Medium | `Array` `Dynamic Programming` `Greedy` |
 | 0056 | [Merge Intervals](https://leetcode.com/problems/merge-intervals) | Medium | `Array` `Sorting` |
+| 0057 | [Insert Interval](https://leetcode.com/problems/insert-interval) | Medium | `Array` |
 | 0058 | [Length of Last Word](https://leetcode.com/problems/length-of-last-word) | Easy | `String` |
 | 0063 | [Unique Paths II](https://leetcode.com/problems/unique-paths-ii) | Medium | `Array` `Dynamic Programming` `Matrix` |
 | 0064 | [Minimum Path Sum](https://leetcode.com/problems/minimum-path-sum) | Medium | `Array` `Dynamic Programming` `Matrix` |
