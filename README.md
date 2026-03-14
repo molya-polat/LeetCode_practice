@@ -135,6 +135,7 @@
 | 0684 | [Redundant Connection](https://leetcode.com/problems/redundant-connection) | Medium | `Breadth-First Search` `Depth-First Search` `Graph Theory` `Union-Find` |
 | 0692 | [Top K Frequent Words](https://leetcode.com/problems/top-k-frequent-words) | Medium | `Array` `Bucket Sort` `Counting` `Hash Table` `Heap (Priority Queue)` `Sorting` `String` `Trie` |
 | 0704 | [Binary Search](https://leetcode.com/problems/binary-search) | Easy | `Array` `Binary Search` |
+| 0713 | [Subarray Product Less Than K](https://leetcode.com/problems/subarray-product-less-than-k) | Medium | `Array` `Binary Search` `Prefix Sum` `Sliding Window` |
 | 0718 | [Maximum Length of Repeated Subarray](https://leetcode.com/problems/maximum-length-of-repeated-subarray) | Medium | `Array` `Binary Search` `Dynamic Programming` `Hash Function` `Rolling Hash` `Sliding Window` |
 | 0721 | [Accounts Merge](https://leetcode.com/problems/accounts-merge) | Medium | `Array` `Breadth-First Search` `Depth-First Search` `Hash Table` `Sorting` `String` `Union-Find` |
 | 0735 | [Asteroid Collision](https://leetcode.com/problems/asteroid-collision) | Medium | `Array` `Simulation` `Stack` |
