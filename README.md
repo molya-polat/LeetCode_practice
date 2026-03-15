@@ -105,6 +105,7 @@
 | 0322 | [Coin Change](https://leetcode.com/problems/coin-change) | Medium | `Array` `Breadth-First Search` `Dynamic Programming` |
 | 0324 | [Wiggle Sort II](https://leetcode.com/problems/wiggle-sort-ii) | Medium | `Array` `Divide and Conquer` `Greedy` `Quickselect` `Sorting` |
 | 0325 | [Maximum Size Subarray Sum Equals k](https://leetcode.com/problems/maximum-size-subarray-sum-equals-k) | Medium | `Array` `Hash Table` `Prefix Sum` |
+| 0340 | [Longest Substring with At Most K Distinct Characters](https://leetcode.com/problems/longest-substring-with-at-most-k-distinct-characters) | Medium | `Hash Table` `Sliding Window` `String` |
 | 0344 | [Reverse String](https://leetcode.com/problems/reverse-string) | Easy | `String` `Two Pointers` |
 | 0347 | [Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements) | Medium | `Array` `Bucket Sort` `Counting` `Divide and Conquer` `Hash Table` `Heap (Priority Queue)` `Quickselect` `Sorting` |
 | 0349 | [Intersection of Two Arrays](https://leetcode.com/problems/intersection-of-two-arrays) | Easy | `Array` `Binary Search` `Hash Table` `Sorting` `Two Pointers` |
