@@ -3024,5 +3024,15 @@
       "Dynamic Programming",
       "Math"
     ]
+  },
+  {
+    "id": 3872,
+    "title": "Longest Arithmetic Sequence After Changing At Most One Element",
+    "title_slug": "longest-arithmetic-sequence-after-changing-at-most-one-element",
+    "difficulty": "Medium",
+    "skills": [
+      "Array",
+      "Enumeration"
+    ]
   }
 ]
