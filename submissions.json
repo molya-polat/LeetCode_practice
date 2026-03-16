@@ -2531,6 +2531,22 @@
     ]
   },
   {
+    "id": 3607,
+    "title": "Power Grid Maintenance",
+    "title_slug": "power-grid-maintenance",
+    "difficulty": "Medium",
+    "skills": [
+      "Array",
+      "Breadth-First Search",
+      "Depth-First Search",
+      "Graph Theory",
+      "Hash Table",
+      "Heap (Priority Queue)",
+      "Ordered Set",
+      "Union-Find"
+    ]
+  },
+  {
     "id": 3622,
     "title": "Check Divisibility by Digit Sum and Product",
     "title_slug": "check-divisibility-by-digit-sum-and-product",
