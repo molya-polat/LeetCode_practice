@@ -3014,5 +3014,15 @@
       "Hash Table",
       "String"
     ]
+  },
+  {
+    "id": 3857,
+    "title": "Minimum Cost to Split into Ones",
+    "title_slug": "minimum-cost-to-split-into-ones",
+    "difficulty": "Medium",
+    "skills": [
+      "Dynamic Programming",
+      "Math"
+    ]
   }
 ]
