@@ -2681,6 +2681,17 @@
     ]
   },
   {
+    "id": 3690,
+    "title": "Split and Merge Array Transformation",
+    "title_slug": "split-and-merge-array-transformation",
+    "difficulty": "Medium",
+    "skills": [
+      "Array",
+      "Breadth-First Search",
+      "Hash Table"
+    ]
+  },
+  {
     "id": 3692,
     "title": "Majority Frequency Characters",
     "title_slug": "majority-frequency-characters",
