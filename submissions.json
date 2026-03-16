@@ -3016,6 +3016,19 @@
     ]
   },
   {
+    "id": 3831,
+    "title": "Median of a Binary Search Tree Level",
+    "title_slug": "median-of-a-binary-search-tree-level",
+    "difficulty": "Medium",
+    "skills": [
+      "Binary Search Tree",
+      "Binary Tree",
+      "Breadth-First Search",
+      "Depth-First Search",
+      "Tree"
+    ]
+  },
+  {
     "id": 3857,
     "title": "Minimum Cost to Split into Ones",
     "title_slug": "minimum-cost-to-split-into-ones",
