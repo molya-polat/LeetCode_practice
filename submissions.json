@@ -3026,6 +3026,16 @@
     ]
   },
   {
+    "id": 3862,
+    "title": "Find the Smallest Balanced Index",
+    "title_slug": "find-the-smallest-balanced-index",
+    "difficulty": "Medium",
+    "skills": [
+      "Array",
+      "Prefix Sum"
+    ]
+  },
+  {
     "id": 3872,
     "title": "Longest Arithmetic Sequence After Changing At Most One Element",
     "title_slug": "longest-arithmetic-sequence-after-changing-at-most-one-element",

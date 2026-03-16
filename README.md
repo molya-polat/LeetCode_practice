@@ -282,4 +282,5 @@
 | 3798 | [Largest Even Number](https://leetcode.com/problems/largest-even-number) | Easy | `String` |
 | 3803 | [Count Residue Prefixes](https://leetcode.com/problems/count-residue-prefixes) | Easy | `Hash Table` `String` |
 | 3857 | [Minimum Cost to Split into Ones](https://leetcode.com/problems/minimum-cost-to-split-into-ones) | Medium | `Dynamic Programming` `Math` |
+| 3862 | [Find the Smallest Balanced Index](https://leetcode.com/problems/find-the-smallest-balanced-index) | Medium | `Array` `Prefix Sum` |
 | 3872 | [Longest Arithmetic Sequence After Changing At Most One Element](https://leetcode.com/problems/longest-arithmetic-sequence-after-changing-at-most-one-element) | Medium | `Array` `Enumeration` |
