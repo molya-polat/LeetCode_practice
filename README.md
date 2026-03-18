@@ -113,6 +113,7 @@
 | 0359 | [Logger Rate Limiter](https://leetcode.com/problems/logger-rate-limiter) | Easy | `Data Stream` `Design` `Hash Table` |
 | 0380 | [Insert Delete GetRandom O(1)](https://leetcode.com/problems/insert-delete-getrandom-o1) | Medium | `Array` `Design` `Hash Table` `Math` `Randomized` |
 | 0383 | [Ransom Note](https://leetcode.com/problems/ransom-note) | Easy | `Counting` `Hash Table` `String` |
+| 0389 | [Find the Difference](https://leetcode.com/problems/find-the-difference) | Easy | `Bit Manipulation` `Hash Table` `Sorting` `String` |
 | 0392 | [Is Subsequence](https://leetcode.com/problems/is-subsequence) | Easy | `Dynamic Programming` `String` `Two Pointers` |
 | 0394 | [Decode String](https://leetcode.com/problems/decode-string) | Medium | `Recursion` `Stack` `String` |
 | 0399 | [Evaluate Division](https://leetcode.com/problems/evaluate-division) | Medium | `Array` `Breadth-First Search` `Depth-First Search` `Graph Theory` `Shortest Path` `String` `Union-Find` |
