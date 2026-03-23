@@ -1971,6 +1971,18 @@
     ]
   },
   {
+    "id": 2273,
+    "title": "Find Resultant Array After Removing Anagrams",
+    "title_slug": "find-resultant-array-after-removing-anagrams",
+    "difficulty": "Easy",
+    "skills": [
+      "Array",
+      "Hash Table",
+      "Sorting",
+      "String"
+    ]
+  },
+  {
     "id": 2294,
     "title": "Partition Array Such That Maximum Difference Is K",
     "title_slug": "partition-array-such-that-maximum-difference-is-k",
