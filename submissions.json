@@ -2045,6 +2045,19 @@
     ]
   },
   {
+    "id": 3296,
+    "title": "Minimum Number of Seconds to Make Mountain Height Zero",
+    "title_slug": "minimum-number-of-seconds-to-make-mountain-height-zero",
+    "difficulty": "Medium",
+    "skills": [
+      "Array",
+      "Binary Search",
+      "Greedy",
+      "Heap (Priority Queue)",
+      "Math"
+    ]
+  },
+  {
     "id": 3300,
     "title": "Minimum Element After Replacement With Digit Sum",
     "title_slug": "minimum-element-after-replacement-with-digit-sum",
