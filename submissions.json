@@ -1994,6 +1994,19 @@
     ]
   },
   {
+    "id": 2385,
+    "title": "Amount of Time for Binary Tree to Be Infected",
+    "title_slug": "amount-of-time-for-binary-tree-to-be-infected",
+    "difficulty": "Medium",
+    "skills": [
+      "Binary Tree",
+      "Breadth-First Search",
+      "Depth-First Search",
+      "Hash Table",
+      "Tree"
+    ]
+  },
+  {
     "id": 2667,
     "title": "Create Hello World Function",
     "title_slug": "create-hello-world-function",
