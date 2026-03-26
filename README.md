@@ -185,6 +185,7 @@
 | 2235 | [Add Two Integers](https://leetcode.com/problems/add-two-integers) | Easy | `Math` |
 | 2273 | [Find Resultant Array After Removing Anagrams](https://leetcode.com/problems/find-resultant-array-after-removing-anagrams) | Easy | `Array` `Hash Table` `Sorting` `String` |
 | 2294 | [Partition Array Such That Maximum Difference Is K](https://leetcode.com/problems/partition-array-such-that-maximum-difference-is-k) | Medium | `Array` `Greedy` `Sorting` |
+| 2337 | [Move Pieces to Obtain a String](https://leetcode.com/problems/move-pieces-to-obtain-a-string) | Medium | `String` `Two Pointers` |
 | 2385 | [Amount of Time for Binary Tree to Be Infected](https://leetcode.com/problems/amount-of-time-for-binary-tree-to-be-infected) | Medium | `Binary Tree` `Breadth-First Search` `Depth-First Search` `Hash Table` `Tree` |
 | 2667 | [Create Hello World Function](https://leetcode.com/problems/create-hello-world-function) | Easy |  |
 | 2684 | [Maximum Number of Moves in a Grid](https://leetcode.com/problems/maximum-number-of-moves-in-a-grid) | Medium | `Array` `Dynamic Programming` `Matrix` |

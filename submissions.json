@@ -1994,6 +1994,16 @@
     ]
   },
   {
+    "id": 2337,
+    "title": "Move Pieces to Obtain a String",
+    "title_slug": "move-pieces-to-obtain-a-string",
+    "difficulty": "Medium",
+    "skills": [
+      "String",
+      "Two Pointers"
+    ]
+  },
+  {
     "id": 2385,
     "title": "Amount of Time for Binary Tree to Be Infected",
     "title_slug": "amount-of-time-for-binary-tree-to-be-infected",
