@@ -235,6 +235,7 @@
 | 3536 | [Maximum Product of Two Digits](https://leetcode.com/problems/maximum-product-of-two-digits) | Easy | `Math` `Sorting` |
 | 3541 | [Find Most Frequent Vowel and Consonant](https://leetcode.com/problems/find-most-frequent-vowel-and-consonant) | Easy | `Counting` `Hash Table` `String` |
 | 3545 | [Minimum Deletions for At Most K Distinct Characters](https://leetcode.com/problems/minimum-deletions-for-at-most-k-distinct-characters) | Easy | `Counting` `Greedy` `Hash Table` `Sorting` `String` |
+| 3546 | [Equal Sum Grid Partition I](https://leetcode.com/problems/equal-sum-grid-partition-i) | Medium | `Array` `Enumeration` `Matrix` `Prefix Sum` |
 | 3550 | [Smallest Index With Digit Sum Equal to Index](https://leetcode.com/problems/smallest-index-with-digit-sum-equal-to-index) | Easy | `Array` `Math` |
 | 3560 | [Find Minimum Log Transportation Cost](https://leetcode.com/problems/find-minimum-log-transportation-cost) | Easy | `Math` |
 | 3582 | [Generate Tag for Video Caption](https://leetcode.com/problems/generate-tag-for-video-caption) | Easy | `Simulation` `String` |
