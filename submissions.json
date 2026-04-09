@@ -3197,5 +3197,12 @@
       "Array",
       "Enumeration"
     ]
+  },
+  {
+    "id": 3893,
+    "title": "Maximum Team Size with Overlapping Intervals",
+    "title_slug": "maximum-team-size-with-overlapping-intervals",
+    "difficulty": "Medium",
+    "skills": []
   }
 ]
