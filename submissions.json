@@ -3156,6 +3156,15 @@
     ]
   },
   {
+    "id": 3818,
+    "title": "Minimum Prefix Removal to Make Array Strictly Increasing",
+    "title_slug": "minimum-prefix-removal-to-make-array-strictly-increasing",
+    "difficulty": "Medium",
+    "skills": [
+      "Array"
+    ]
+  },
+  {
     "id": 3831,
     "title": "Median of a Binary Search Tree Level",
     "title_slug": "median-of-a-binary-search-tree-level",
