@@ -3199,6 +3199,17 @@
     ]
   },
   {
+    "id": 3889,
+    "title": "Mirror Frequency Distance",
+    "title_slug": "mirror-frequency-distance",
+    "difficulty": "Medium",
+    "skills": [
+      "Counting",
+      "Hash Table",
+      "String"
+    ]
+  },
+  {
     "id": 3893,
     "title": "Maximum Team Size with Overlapping Intervals",
     "title_slug": "maximum-team-size-with-overlapping-intervals",
