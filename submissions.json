@@ -3208,6 +3208,16 @@
     ]
   },
   {
+    "id": 3884,
+    "title": "First Matching Character From Both Ends",
+    "title_slug": "first-matching-character-from-both-ends",
+    "difficulty": "Easy",
+    "skills": [
+      "String",
+      "Two Pointers"
+    ]
+  },
+  {
     "id": 3889,
     "title": "Mirror Frequency Distance",
     "title_slug": "mirror-frequency-distance",
