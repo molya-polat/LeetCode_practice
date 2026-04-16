@@ -3226,6 +3226,13 @@
     "skills": []
   },
   {
+    "id": 3894,
+    "title": "Traffic Signal Color",
+    "title_slug": "traffic-signal-color",
+    "difficulty": "Easy",
+    "skills": []
+  },
+  {
     "id": 3898,
     "title": "Find the Degree of Each Vertex",
     "title_slug": "find-the-degree-of-each-vertex",
