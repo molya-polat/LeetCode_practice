@@ -2566,6 +2566,20 @@
     ]
   },
   {
+    "id": 3578,
+    "title": "Count Partitions With Max-Min Difference at Most K",
+    "title_slug": "count-partitions-with-max-min-difference-at-most-k",
+    "difficulty": "Medium",
+    "skills": [
+      "Array",
+      "Dynamic Programming",
+      "Monotonic Queue",
+      "Prefix Sum",
+      "Queue",
+      "Sliding Window"
+    ]
+  },
+  {
     "id": 3582,
     "title": "Generate Tag for Video Caption",
     "title_slug": "generate-tag-for-video-caption",
