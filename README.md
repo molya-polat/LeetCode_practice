@@ -299,6 +299,7 @@
 | 3857 | [Minimum Cost to Split into Ones](https://leetcode.com/problems/minimum-cost-to-split-into-ones) | Medium | `Dynamic Programming` `Math` |
 | 3862 | [Find the Smallest Balanced Index](https://leetcode.com/problems/find-the-smallest-balanced-index) | Medium | `Array` `Prefix Sum` |
 | 3872 | [Longest Arithmetic Sequence After Changing At Most One Element](https://leetcode.com/problems/longest-arithmetic-sequence-after-changing-at-most-one-element) | Medium | `Array` `Enumeration` |
+| 3880 | [Minimum Absolute Difference Between Two Values](https://leetcode.com/problems/minimum-absolute-difference-between-two-values) | Easy | `Array` `Enumeration` |
 | 3884 | [First Matching Character From Both Ends](https://leetcode.com/problems/first-matching-character-from-both-ends) | Easy | `String` `Two Pointers` |
 | 3889 | [Mirror Frequency Distance](https://leetcode.com/problems/mirror-frequency-distance) | Medium | `Counting` `Hash Table` `String` |
 | 3893 | [Maximum Team Size with Overlapping Intervals](https://leetcode.com/problems/maximum-team-size-with-overlapping-intervals) | Medium |  |

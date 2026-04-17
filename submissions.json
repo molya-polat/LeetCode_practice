@@ -3222,6 +3222,16 @@
     ]
   },
   {
+    "id": 3880,
+    "title": "Minimum Absolute Difference Between Two Values",
+    "title_slug": "minimum-absolute-difference-between-two-values",
+    "difficulty": "Easy",
+    "skills": [
+      "Array",
+      "Enumeration"
+    ]
+  },
+  {
     "id": 3884,
     "title": "First Matching Character From Both Ends",
     "title_slug": "first-matching-character-from-both-ends",
