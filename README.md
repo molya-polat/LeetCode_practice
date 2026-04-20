@@ -305,3 +305,4 @@
 | 3893 | [Maximum Team Size with Overlapping Intervals](https://leetcode.com/problems/maximum-team-size-with-overlapping-intervals) | Medium |  |
 | 3894 | [Traffic Signal Color](https://leetcode.com/problems/traffic-signal-color) | Easy |  |
 | 3898 | [Find the Degree of Each Vertex](https://leetcode.com/problems/find-the-degree-of-each-vertex) | Easy |  |
+| 3903 | [Smallest Stable Index I](https://leetcode.com/problems/smallest-stable-index-i) | Easy | `Array` |

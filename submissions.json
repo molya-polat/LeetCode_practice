@@ -3272,5 +3272,14 @@
     "title_slug": "find-the-degree-of-each-vertex",
     "difficulty": "Easy",
     "skills": []
+  },
+  {
+    "id": 3903,
+    "title": "Smallest Stable Index I",
+    "title_slug": "smallest-stable-index-i",
+    "difficulty": "Easy",
+    "skills": [
+      "Array"
+    ]
   }
 ]
