@@ -3222,6 +3222,16 @@
     ]
   },
   {
+    "id": 3875,
+    "title": "Construct Uniform Parity Array I",
+    "title_slug": "construct-uniform-parity-array-i",
+    "difficulty": "Easy",
+    "skills": [
+      "Array",
+      "Math"
+    ]
+  },
+  {
     "id": 3880,
     "title": "Minimum Absolute Difference Between Two Values",
     "title_slug": "minimum-absolute-difference-between-two-values",
